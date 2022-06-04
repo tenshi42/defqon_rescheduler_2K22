@@ -1,0 +1,45 @@
+#table_anchor{
+    border: 1px solid black;
+}
+
+.day_tab{
+    padding: 15px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 5px;
+}
+
+.day_tab:hover{
+    background-color: #e38787;
+}
+
+.day_selected{
+    background-color: #771919;
+}
+
+.day_panel{
+    border: 1px solid black;
+    margin: 2px;
+    overflow-x: visible;
+}
+
+.scene_panel{
+    border: 1px solid black;
+    margin: 2px;
+    display: inline-block;
+    vertical-align: top;
+    width: 200px;
+    height: 1000px;
+    transition: width 250ms;
+}
+
+.scene_panel:hover{
+    width: 400px;
+}
+
+.slot_panel{
+    border: 1px solid black;
+    position: relative;
+    overflow: hidden;
+    text-align: center;
+}

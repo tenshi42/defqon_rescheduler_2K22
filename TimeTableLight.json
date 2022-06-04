@@ -1,0 +1,2608 @@
+{
+    "thursday": {
+        "dateTimeStart": 1655985600,
+        "stages": {
+            "BLUE": {
+                "D-Block & S-te-Fan ": {
+                    "title": "D-Block & S-te-Fan ",
+                    "dateTimeStart": 1656000000,
+                    "dateTimeEnd": 1656003600,
+                    "going": false
+                },
+                "Wildstylez": {
+                    "title": "Wildstylez",
+                    "dateTimeStart": 1656003600,
+                    "dateTimeEnd": 1656007200,
+                    "going": false
+                },
+                "Da Tweekaz [LIVE]": {
+                    "title": "Da Tweekaz [LIVE]",
+                    "dateTimeStart": 1656007200,
+                    "dateTimeEnd": 1656009000,
+                    "going": false
+                },
+                "Zatox": {
+                    "title": "Zatox",
+                    "dateTimeStart": 1656009000,
+                    "dateTimeEnd": 1656011700,
+                    "going": false
+                },
+                "Adaro": {
+                    "title": "Adaro",
+                    "dateTimeStart": 1656011700,
+                    "dateTimeEnd": 1656014400,
+                    "going": false
+                },
+                "D-Sturb": {
+                    "title": "D-Sturb",
+                    "dateTimeStart": 1656014400,
+                    "dateTimeEnd": 1656017100,
+                    "going": false
+                },
+                "Hosted by Villain": {
+                    "title": "Hosted by Villain",
+                    "dateTimeStart": 1656017100,
+                    "dateTimeEnd": 1656018900,
+                    "going": false
+                }
+            },
+            "BLACK": {
+                "Partyraiser": {
+                    "title": "Partyraiser",
+                    "dateTimeStart": 1656000000,
+                    "dateTimeEnd": 1656003600,
+                    "going": false
+                },
+                "Nosferatu": {
+                    "title": "Nosferatu",
+                    "dateTimeStart": 1656003600,
+                    "dateTimeEnd": 1656007200,
+                    "going": false
+                },
+                "Miss K8": {
+                    "title": "Miss K8",
+                    "dateTimeStart": 1656007200,
+                    "dateTimeEnd": 1656010800,
+                    "going": false
+                },
+                "Peacock in Concert": {
+                    "title": "Peacock in Concert",
+                    "dateTimeStart": 1656010800,
+                    "dateTimeEnd": 1656014400,
+                    "going": false
+                },
+                "Deadly Guns": {
+                    "title": "Deadly Guns",
+                    "dateTimeStart": 1656014400,
+                    "dateTimeEnd": 1656017100,
+                    "going": false
+                },
+                "Hosted by Da Mouth of Madness": {
+                    "title": "Hosted by Da Mouth of Madness",
+                    "dateTimeStart": 1656017100,
+                    "dateTimeEnd": 1656018900,
+                    "going": false
+                }
+            },
+            "INDIGO": {
+                "Physika ": {
+                    "title": "Physika ",
+                    "dateTimeStart": 1656003600,
+                    "dateTimeEnd": 1656006300,
+                    "going": false
+                },
+                "Invector": {
+                    "title": "Invector",
+                    "dateTimeStart": 1656006300,
+                    "dateTimeEnd": 1656009900,
+                    "going": false
+                },
+                "Cryex": {
+                    "title": "Cryex",
+                    "dateTimeStart": 1656009900,
+                    "dateTimeEnd": 1656013500,
+                    "going": false
+                },
+                "Imperatorz ": {
+                    "title": "Imperatorz ",
+                    "dateTimeStart": 1656013500,
+                    "dateTimeEnd": 1656017100,
+                    "going": false
+                }
+            },
+            "THE WASTED LANDS 1": {
+                "Lost Identity": {
+                    "title": "Lost Identity",
+                    "dateTimeStart": 1655985600,
+                    "dateTimeEnd": 1655989200,
+                    "going": false
+                },
+                "Plug 'N Play": {
+                    "title": "Plug 'N Play",
+                    "dateTimeStart": 1655989200,
+                    "dateTimeEnd": 1655992800,
+                    "going": false
+                },
+                "Sickddellz ": {
+                    "title": "Sickddellz ",
+                    "dateTimeStart": 1655992800,
+                    "dateTimeEnd": 1655996400,
+                    "going": false
+                },
+                "Jones": {
+                    "title": "Jones",
+                    "dateTimeStart": 1655996400,
+                    "dateTimeEnd": 1655998200,
+                    "going": false
+                }
+            },
+            "THE WASTED LANDS 2": {
+                "Avi8": {
+                    "title": "Avi8",
+                    "dateTimeStart": 1655985600,
+                    "dateTimeEnd": 1655989200,
+                    "going": false
+                },
+                "Scabtik": {
+                    "title": "Scabtik",
+                    "dateTimeStart": 1655989200,
+                    "dateTimeEnd": 1655992800,
+                    "going": false
+                },
+                "Magnuz": {
+                    "title": "Magnuz",
+                    "dateTimeStart": 1655992800,
+                    "dateTimeEnd": 1655995500,
+                    "going": false
+                },
+                "Hollow Point": {
+                    "title": "Hollow Point",
+                    "dateTimeStart": 1655995500,
+                    "dateTimeEnd": 1655998200,
+                    "going": false
+                }
+            },
+            "THE BIG CHILL": {
+                "MJAY": {
+                    "title": "MJAY",
+                    "dateTimeStart": 1656000000,
+                    "dateTimeEnd": 1656003600,
+                    "going": false
+                },
+                "Lady Lanka": {
+                    "title": "Lady Lanka",
+                    "dateTimeStart": 1656003600,
+                    "dateTimeEnd": 1656007200,
+                    "going": false
+                },
+                "Kamara ": {
+                    "title": "Kamara ",
+                    "dateTimeStart": 1656007200,
+                    "dateTimeEnd": 1656014400,
+                    "going": false
+                },
+                "Squeaky Clean ": {
+                    "title": "Squeaky Clean ",
+                    "dateTimeStart": 1656014400,
+                    "dateTimeEnd": 1656018000,
+                    "going": false
+                },
+                "MC Stolker": {
+                    "title": "MC Stolker",
+                    "dateTimeStart": 1656018000,
+                    "dateTimeEnd": 1656019800,
+                    "going": false
+                }
+            },
+            "The Funky Cat (SILENT)": {
+                "Geck-o vs D00d vs Bitface ": {
+                    "title": "Geck-o vs D00d vs Bitface ",
+                    "dateTimeStart": 1656018000,
+                    "dateTimeEnd": 1656025200,
+                    "going": false
+                }
+            }
+        }
+    },
+    "friday": {
+        "dateTimeStart": 1656061200,
+        "stages": {
+            "RED": {
+                "The Opening Ceremony: This is Sefa ": {
+                    "title": "The Opening Ceremony: This is Sefa ",
+                    "dateTimeStart": 1656068400,
+                    "dateTimeEnd": 1656072000,
+                    "going": false
+                },
+                "Demi Kanon": {
+                    "title": "Demi Kanon",
+                    "dateTimeStart": 1656072000,
+                    "dateTimeEnd": 1656075600,
+                    "going": false
+                },
+                "Hard Driver": {
+                    "title": "Hard Driver",
+                    "dateTimeStart": 1656075600,
+                    "dateTimeEnd": 1656079200,
+                    "going": false
+                },
+                "KELTEK": {
+                    "title": "KELTEK",
+                    "dateTimeStart": 1656079200,
+                    "dateTimeEnd": 1656082800,
+                    "going": false
+                },
+                "Sound Rush [LIVE]": {
+                    "title": "Sound Rush [LIVE]",
+                    "dateTimeStart": 1656082800,
+                    "dateTimeEnd": 1656084600,
+                    "going": false
+                },
+                "Atmozfears": {
+                    "title": "Atmozfears",
+                    "dateTimeStart": 1656084600,
+                    "dateTimeEnd": 1656088200,
+                    "going": false
+                },
+                "Devin Wild: The Innergame LIVE": {
+                    "title": "Devin Wild: The Innergame LIVE",
+                    "dateTimeStart": 1656088200,
+                    "dateTimeEnd": 1656090000,
+                    "going": false
+                },
+                "Headhunterz": {
+                    "title": "Headhunterz",
+                    "dateTimeStart": 1656090000,
+                    "dateTimeEnd": 1656093600,
+                    "going": false
+                },
+                "Frequencerz Presents the Wolves are back": {
+                    "title": "Frequencerz Presents the Wolves are back",
+                    "dateTimeStart": 1656093600,
+                    "dateTimeEnd": 1656096300,
+                    "going": false
+                },
+                "Ran-D": {
+                    "title": "Ran-D",
+                    "dateTimeStart": 1656096300,
+                    "dateTimeEnd": 1656099900,
+                    "going": false
+                },
+                "Rejecta presents The Keymaker": {
+                    "title": "Rejecta presents The Keymaker",
+                    "dateTimeStart": 1656099900,
+                    "dateTimeEnd": 1656102600,
+                    "going": false
+                },
+                "The Spotlight: Sub Zero Project": {
+                    "title": "The Spotlight: Sub Zero Project",
+                    "dateTimeStart": 1656102600,
+                    "dateTimeEnd": 1656104400,
+                    "going": false
+                },
+                "Hosted by Villain & DV8": {
+                    "title": "Hosted by Villain & DV8",
+                    "dateTimeStart": 1656104400,
+                    "dateTimeEnd": 1656106200,
+                    "going": false
+                }
+            },
+            "BLUE": {
+                "Kronos": {
+                    "title": "Kronos",
+                    "dateTimeStart": 1656061200,
+                    "dateTimeEnd": 1656064800,
+                    "going": false
+                },
+                "Physika": {
+                    "title": "Physika",
+                    "dateTimeStart": 1656064800,
+                    "dateTimeEnd": 1656068400,
+                    "going": false
+                },
+                "Bloodlust": {
+                    "title": "Bloodlust",
+                    "dateTimeStart": 1656068400,
+                    "dateTimeEnd": 1656072000,
+                    "going": false
+                },
+                "Voidax": {
+                    "title": "Voidax",
+                    "dateTimeStart": 1656072000,
+                    "dateTimeEnd": 1656075600,
+                    "going": false
+                },
+                "Vertile": {
+                    "title": "Vertile",
+                    "dateTimeStart": 1656075600,
+                    "dateTimeEnd": 1656079200,
+                    "going": false
+                },
+                "Cryex": {
+                    "title": "Cryex",
+                    "dateTimeStart": 1656079200,
+                    "dateTimeEnd": 1656081900,
+                    "going": false
+                },
+                "Imperatorz": {
+                    "title": "Imperatorz",
+                    "dateTimeStart": 1656081900,
+                    "dateTimeEnd": 1656084600,
+                    "going": false
+                },
+                "Malice": {
+                    "title": "Malice",
+                    "dateTimeStart": 1656084600,
+                    "dateTimeEnd": 1656088200,
+                    "going": false
+                },
+                "Unresolved": {
+                    "title": "Unresolved",
+                    "dateTimeStart": 1656088200,
+                    "dateTimeEnd": 1656091800,
+                    "going": false
+                },
+                "Ode to Delete": {
+                    "title": "Ode to Delete",
+                    "dateTimeStart": 1656091800,
+                    "dateTimeEnd": 1656095400,
+                    "going": false
+                },
+                "Killshot": {
+                    "title": "Killshot",
+                    "dateTimeStart": 1656095400,
+                    "dateTimeEnd": 1656099000,
+                    "going": false
+                },
+                "Riot Shift Presents Dystopia LIVE": {
+                    "title": "Riot Shift Presents Dystopia LIVE",
+                    "dateTimeStart": 1656099000,
+                    "dateTimeEnd": 1656100800,
+                    "going": false
+                },
+                "Hosted by Livid ": {
+                    "title": "Hosted by Livid ",
+                    "dateTimeStart": 1656100800,
+                    "dateTimeEnd": 1656102600,
+                    "going": false
+                }
+            },
+            "BLACK": {
+                "Unifire": {
+                    "title": "Unifire",
+                    "dateTimeStart": 1656061200,
+                    "dateTimeEnd": 1656066600,
+                    "going": false
+                },
+                "GridKiller": {
+                    "title": "GridKiller",
+                    "dateTimeStart": 1656066600,
+                    "dateTimeEnd": 1656070200,
+                    "going": false
+                },
+                "Restrained presents Rulebreaking Hardcore": {
+                    "title": "Restrained presents Rulebreaking Hardcore",
+                    "dateTimeStart": 1656070200,
+                    "dateTimeEnd": 1656073800,
+                    "going": false
+                },
+                "Never Surrender": {
+                    "title": "Never Surrender",
+                    "dateTimeStart": 1656073800,
+                    "dateTimeEnd": 1656079200,
+                    "going": false
+                },
+                "Re-Style ": {
+                    "title": "Re-Style ",
+                    "dateTimeStart": 1656079200,
+                    "dateTimeEnd": 1656082800,
+                    "going": false
+                },
+                "Dither": {
+                    "title": "Dither",
+                    "dateTimeStart": 1656082800,
+                    "dateTimeEnd": 1656086400,
+                    "going": false
+                },
+                "Bulletproof": {
+                    "title": "Bulletproof",
+                    "dateTimeStart": 1656086400,
+                    "dateTimeEnd": 1656090000,
+                    "going": false
+                },
+                "Destructive Tendencies": {
+                    "title": "Destructive Tendencies",
+                    "dateTimeStart": 1656090000,
+                    "dateTimeEnd": 1656093600,
+                    "going": false
+                },
+                "Andy The Core": {
+                    "title": "Andy The Core",
+                    "dateTimeStart": 1656093600,
+                    "dateTimeEnd": 1656097200,
+                    "going": false
+                },
+                "DRS": {
+                    "title": "DRS",
+                    "dateTimeStart": 1656097200,
+                    "dateTimeEnd": 1656100800,
+                    "going": false
+                },
+                "The Spotlight: N-Vitral": {
+                    "title": "The Spotlight: N-Vitral",
+                    "dateTimeStart": 1656100800,
+                    "dateTimeEnd": 1656102600,
+                    "going": false
+                },
+                "Hosted by Tha Watcher ": {
+                    "title": "Hosted by Tha Watcher ",
+                    "dateTimeStart": 1656102600,
+                    "dateTimeEnd": 1656104400,
+                    "going": false
+                }
+            },
+            "UV": {
+                "Ecstatic": {
+                    "title": "Ecstatic",
+                    "dateTimeStart": 1656064800,
+                    "dateTimeEnd": 1656068400,
+                    "going": false
+                },
+                "ANDY SVGE": {
+                    "title": "ANDY SVGE",
+                    "dateTimeStart": 1656068400,
+                    "dateTimeEnd": 1656071100,
+                    "going": false
+                },
+                "Lady Faith": {
+                    "title": "Lady Faith",
+                    "dateTimeStart": 1656071100,
+                    "dateTimeEnd": 1656074700,
+                    "going": false
+                },
+                "Jay Reeve LIVE: The Amazing Feeling Of Freedom": {
+                    "title": "Jay Reeve LIVE: The Amazing Feeling Of Freedom",
+                    "dateTimeStart": 1656074700,
+                    "dateTimeEnd": 1656077400,
+                    "going": false
+                },
+                "Audiotricz [LIVE]": {
+                    "title": "Audiotricz [LIVE]",
+                    "dateTimeStart": 1656077400,
+                    "dateTimeEnd": 1656080100,
+                    "going": false
+                },
+                "Sephyx [LIVE]": {
+                    "title": "Sephyx [LIVE]",
+                    "dateTimeStart": 1656080100,
+                    "dateTimeEnd": 1656082800,
+                    "going": false
+                },
+                "Hardstyle Pianist [LIVE]": {
+                    "title": "Hardstyle Pianist [LIVE]",
+                    "dateTimeStart": 1656082800,
+                    "dateTimeEnd": 1656084600,
+                    "going": false
+                },
+                "Frontliner [LIVE]": {
+                    "title": "Frontliner [LIVE]",
+                    "dateTimeStart": 1656084600,
+                    "dateTimeEnd": 1656087300,
+                    "going": false
+                },
+                "Darren Styles": {
+                    "title": "Darren Styles",
+                    "dateTimeStart": 1656087300,
+                    "dateTimeEnd": 1656090000,
+                    "going": false
+                },
+                "Geck-o": {
+                    "title": "Geck-o",
+                    "dateTimeStart": 1656098100,
+                    "dateTimeEnd": 1656099900,
+                    "going": false
+                },
+                "Phuture Noize presents Statues": {
+                    "title": "Phuture Noize presents Statues",
+                    "dateTimeStart": 1656091800,
+                    "dateTimeEnd": 1656095400,
+                    "going": false
+                },
+                "Noize Suppressor Presents Sonar ": {
+                    "title": "Noize Suppressor Presents Sonar ",
+                    "dateTimeStart": 1656096300,
+                    "dateTimeEnd": 1656098100,
+                    "going": false
+                },
+                "GPF.Pres.ThePiepShow.2022.WEBRip.YIFY.X69.AC3-EVO": {
+                    "title": "GPF.Pres.ThePiepShow.2022.WEBRip.YIFY.X69.AC3-EVO",
+                    "dateTimeStart": 1656099900,
+                    "dateTimeEnd": 1656102600,
+                    "going": false
+                },
+                "Hosted by DL": {
+                    "title": "Hosted by DL",
+                    "dateTimeStart": 1656102600,
+                    "dateTimeEnd": 1656104400,
+                    "going": false
+                }
+            },
+            "MAGENTA": {
+                "Lip DJ": {
+                    "title": "Lip DJ",
+                    "dateTimeStart": 1656061200,
+                    "dateTimeEnd": 1656066600,
+                    "going": false
+                },
+                "Tartaros": {
+                    "title": "Tartaros",
+                    "dateTimeStart": 1656066600,
+                    "dateTimeEnd": 1656070200,
+                    "going": false
+                },
+                "Haze & Abyss": {
+                    "title": "Haze & Abyss",
+                    "dateTimeStart": 1656070200,
+                    "dateTimeEnd": 1656073800,
+                    "going": false
+                },
+                "Jajox": {
+                    "title": "Jajox",
+                    "dateTimeStart": 1656073800,
+                    "dateTimeEnd": 1656077400,
+                    "going": false
+                },
+                "Alpha Twins": {
+                    "title": "Alpha Twins",
+                    "dateTimeStart": 1656077400,
+                    "dateTimeEnd": 1656081000,
+                    "going": false
+                },
+                "Jack of Sound": {
+                    "title": "Jack of Sound",
+                    "dateTimeStart": 1656081000,
+                    "dateTimeEnd": 1656084600,
+                    "going": false
+                },
+                "Deetox": {
+                    "title": "Deetox",
+                    "dateTimeStart": 1656084600,
+                    "dateTimeEnd": 1656088200,
+                    "going": false
+                },
+                "Donkey Rollers": {
+                    "title": "Donkey Rollers",
+                    "dateTimeStart": 1656088200,
+                    "dateTimeEnd": 1656090000,
+                    "going": false
+                },
+                "Crypsis": {
+                    "title": "Crypsis",
+                    "dateTimeStart": 1656090000,
+                    "dateTimeEnd": 1656093600,
+                    "going": false
+                },
+                "Main Concern": {
+                    "title": "Main Concern",
+                    "dateTimeStart": 1656093600,
+                    "dateTimeEnd": 1656097200,
+                    "going": false
+                },
+                "DJ Thera": {
+                    "title": "DJ Thera",
+                    "dateTimeStart": 1656097200,
+                    "dateTimeEnd": 1656100800,
+                    "going": false
+                },
+                "Hosted by Da Syndrome ": {
+                    "title": "Hosted by Da Syndrome ",
+                    "dateTimeStart": 1656100800,
+                    "dateTimeEnd": 1656102600,
+                    "going": false
+                }
+            },
+            "INDIGO": {
+                "The Saints": {
+                    "title": "The Saints",
+                    "dateTimeStart": 1656061200,
+                    "dateTimeEnd": 1656066600,
+                    "going": false
+                },
+                "Ressurectz": {
+                    "title": "Ressurectz",
+                    "dateTimeStart": 1656066600,
+                    "dateTimeEnd": 1656072000,
+                    "going": false
+                },
+                "Enemy Contact": {
+                    "title": "Enemy Contact",
+                    "dateTimeStart": 1656072000,
+                    "dateTimeEnd": 1656075600,
+                    "going": false
+                },
+                "Scarra & Vasto present Bassline Breaker": {
+                    "title": "Scarra & Vasto present Bassline Breaker",
+                    "dateTimeStart": 1656075600,
+                    "dateTimeEnd": 1656079200,
+                    "going": false
+                },
+                "Artifact": {
+                    "title": "Artifact",
+                    "dateTimeStart": 1656079200,
+                    "dateTimeEnd": 1656082800,
+                    "going": false
+                },
+                "Element": {
+                    "title": "Element",
+                    "dateTimeStart": 1656082800,
+                    "dateTimeEnd": 1656086400,
+                    "going": false
+                },
+                "Spitfire": {
+                    "title": "Spitfire",
+                    "dateTimeStart": 1656086400,
+                    "dateTimeEnd": 1656090000,
+                    "going": false
+                },
+                "Kruelty": {
+                    "title": "Kruelty",
+                    "dateTimeStart": 1656090000,
+                    "dateTimeEnd": 1656093600,
+                    "going": false
+                },
+                "Vyral": {
+                    "title": "Vyral",
+                    "dateTimeStart": 1656093600,
+                    "dateTimeEnd": 1656097200,
+                    "going": false
+                },
+                "The Straikerz": {
+                    "title": "The Straikerz",
+                    "dateTimeStart": 1656097200,
+                    "dateTimeEnd": 1656100800,
+                    "going": false
+                },
+                "Hosted by Focus": {
+                    "title": "Hosted by Focus",
+                    "dateTimeStart": 1656100800,
+                    "dateTimeEnd": 1656102600,
+                    "going": false
+                }
+            },
+            "YELLOW": {
+                "Vertex": {
+                    "title": "Vertex",
+                    "dateTimeStart": 1656061200,
+                    "dateTimeEnd": 1656064800,
+                    "going": false
+                },
+                "Noxiouz": {
+                    "title": "Noxiouz",
+                    "dateTimeStart": 1656064800,
+                    "dateTimeEnd": 1656068400,
+                    "going": false
+                },
+                "Hard Effectz": {
+                    "title": "Hard Effectz",
+                    "dateTimeStart": 1656068400,
+                    "dateTimeEnd": 1656072000,
+                    "going": false
+                },
+                "Major Conspiracy": {
+                    "title": "Major Conspiracy",
+                    "dateTimeStart": 1656072000,
+                    "dateTimeEnd": 1656075600,
+                    "going": false
+                },
+                "Trespassed": {
+                    "title": "Trespassed",
+                    "dateTimeStart": 1656075600,
+                    "dateTimeEnd": 1656079200,
+                    "going": false
+                },
+                "Mr. Ivex": {
+                    "title": "Mr. Ivex",
+                    "dateTimeStart": 1656079200,
+                    "dateTimeEnd": 1656082800,
+                    "going": false
+                },
+                "MBK": {
+                    "title": "MBK",
+                    "dateTimeStart": 1656082800,
+                    "dateTimeEnd": 1656086400,
+                    "going": false
+                },
+                "Basspunkz": {
+                    "title": "Basspunkz",
+                    "dateTimeStart": 1656086400,
+                    "dateTimeEnd": 1656090000,
+                    "going": false
+                },
+                "Juli\u00c3\u00abx": {
+                    "title": "Juli\u00c3\u00abx",
+                    "dateTimeStart": 1656090000,
+                    "dateTimeEnd": 1656093600,
+                    "going": false
+                },
+                "Unproven": {
+                    "title": "Unproven",
+                    "dateTimeStart": 1656093600,
+                    "dateTimeEnd": 1656097200,
+                    "going": false
+                },
+                "Dissoactive": {
+                    "title": "Dissoactive",
+                    "dateTimeStart": 1656097200,
+                    "dateTimeEnd": 1656100800,
+                    "going": false
+                },
+                "Hosted by Mc Robs": {
+                    "title": "Hosted by Mc Robs",
+                    "dateTimeStart": 1656100800,
+                    "dateTimeEnd": 1656102600,
+                    "going": false
+                }
+            },
+            "GOLD": {
+                "Speedy Bass": {
+                    "title": "Speedy Bass",
+                    "dateTimeStart": 1656061200,
+                    "dateTimeEnd": 1656066600,
+                    "going": false
+                },
+                "The Viper": {
+                    "title": "The Viper",
+                    "dateTimeStart": 1656066600,
+                    "dateTimeEnd": 1656072000,
+                    "going": false
+                },
+                "Amnesys": {
+                    "title": "Amnesys",
+                    "dateTimeStart": 1656072000,
+                    "dateTimeEnd": 1656075600,
+                    "going": false
+                },
+                "Weapon X": {
+                    "title": "Weapon X",
+                    "dateTimeStart": 1656075600,
+                    "dateTimeEnd": 1656081000,
+                    "going": false
+                },
+                "Promo": {
+                    "title": "Promo",
+                    "dateTimeStart": 1656081000,
+                    "dateTimeEnd": 1656086400,
+                    "going": false
+                },
+                "Nosferatu": {
+                    "title": "Nosferatu",
+                    "dateTimeStart": 1656086400,
+                    "dateTimeEnd": 1656091800,
+                    "going": false
+                },
+                "J.D.A.": {
+                    "title": "J.D.A.",
+                    "dateTimeStart": 1656091800,
+                    "dateTimeEnd": 1656097200,
+                    "going": false
+                },
+                "Mad Dog": {
+                    "title": "Mad Dog",
+                    "dateTimeStart": 1656097200,
+                    "dateTimeEnd": 1656100800,
+                    "going": false
+                },
+                "Hosted by Ruffian": {
+                    "title": "Hosted by Ruffian",
+                    "dateTimeStart": 1656100800,
+                    "dateTimeEnd": 1656102600,
+                    "going": false
+                }
+            },
+            "PURPLE": {
+                "D-Stroyer": {
+                    "title": "D-Stroyer",
+                    "dateTimeStart": 1656068400,
+                    "dateTimeEnd": 1656072000,
+                    "going": false
+                },
+                "PRDX": {
+                    "title": "PRDX",
+                    "dateTimeStart": 1656072000,
+                    "dateTimeEnd": 1656075600,
+                    "going": false
+                },
+                "Damian Ray": {
+                    "title": "Damian Ray",
+                    "dateTimeStart": 1656075600,
+                    "dateTimeEnd": 1656079200,
+                    "going": false
+                },
+                "Break of Dawn ": {
+                    "title": "Break of Dawn ",
+                    "dateTimeStart": 1656079200,
+                    "dateTimeEnd": 1656082800,
+                    "going": false
+                },
+                "Hydra": {
+                    "title": "Hydra",
+                    "dateTimeStart": 1656082800,
+                    "dateTimeEnd": 1656086400,
+                    "going": false
+                },
+                "Rogue Zero ": {
+                    "title": "Rogue Zero ",
+                    "dateTimeStart": 1656086400,
+                    "dateTimeEnd": 1656090000,
+                    "going": false
+                },
+                "The Saint": {
+                    "title": "The Saint",
+                    "dateTimeStart": 1656090000,
+                    "dateTimeEnd": 1656093600,
+                    "going": false
+                },
+                "Doris": {
+                    "title": "Doris",
+                    "dateTimeStart": 1656093600,
+                    "dateTimeEnd": 1656097200,
+                    "going": false
+                },
+                "Mind Compressor": {
+                    "title": "Mind Compressor",
+                    "dateTimeStart": 1656097200,
+                    "dateTimeEnd": 1656100800,
+                    "going": false
+                },
+                "Hosted by Synergy": {
+                    "title": "Hosted by Synergy",
+                    "dateTimeStart": 1656100800,
+                    "dateTimeEnd": 1656102600,
+                    "going": false
+                }
+            },
+            "SILVER": {
+                "DAE": {
+                    "title": "DAE",
+                    "dateTimeStart": 1656061200,
+                    "dateTimeEnd": 1656064800,
+                    "going": false
+                },
+                "Nick Moody": {
+                    "title": "Nick Moody",
+                    "dateTimeStart": 1656064800,
+                    "dateTimeEnd": 1656068400,
+                    "going": false
+                },
+                "Formshift": {
+                    "title": "Formshift",
+                    "dateTimeStart": 1656068400,
+                    "dateTimeEnd": 1656073800,
+                    "going": false
+                },
+                "Deep Dimension ": {
+                    "title": "Deep Dimension ",
+                    "dateTimeStart": 1656073800,
+                    "dateTimeEnd": 1656079200,
+                    "going": false
+                },
+                "Remco Beekwilder": {
+                    "title": "Remco Beekwilder",
+                    "dateTimeStart": 1656079200,
+                    "dateTimeEnd": 1656084600,
+                    "going": false
+                },
+                "Stranger": {
+                    "title": "Stranger",
+                    "dateTimeStart": 1656084600,
+                    "dateTimeEnd": 1656090000,
+                    "going": false
+                },
+                "Rude Awakening": {
+                    "title": "Rude Awakening",
+                    "dateTimeStart": 1656090000,
+                    "dateTimeEnd": 1656095400,
+                    "going": false
+                },
+                "Ruffneck Prime ": {
+                    "title": "Ruffneck Prime ",
+                    "dateTimeStart": 1656095400,
+                    "dateTimeEnd": 1656100800,
+                    "going": false
+                }
+            },
+            "THE BIG CHILL": {
+                "MJAY & Marty": {
+                    "title": "MJAY & Marty",
+                    "dateTimeStart": 1656061200,
+                    "dateTimeEnd": 1656068400,
+                    "going": false
+                },
+                "Ferry Mutch ": {
+                    "title": "Ferry Mutch ",
+                    "dateTimeStart": 1656068400,
+                    "dateTimeEnd": 1656072000,
+                    "going": false
+                },
+                "Toontje Vager ": {
+                    "title": "Toontje Vager ",
+                    "dateTimeStart": 1656072000,
+                    "dateTimeEnd": 1656075600,
+                    "going": false
+                },
+                "Lano ": {
+                    "title": "Lano ",
+                    "dateTimeStart": 1656075600,
+                    "dateTimeEnd": 1656082800,
+                    "going": false
+                },
+                "Jasper Broeks ": {
+                    "title": "Jasper Broeks ",
+                    "dateTimeStart": 1656082800,
+                    "dateTimeEnd": 1656086400,
+                    "going": false
+                },
+                "Gekke Sietse": {
+                    "title": "Gekke Sietse",
+                    "dateTimeStart": 1656086400,
+                    "dateTimeEnd": 1656090000,
+                    "going": false
+                },
+                "Axel Doorman": {
+                    "title": "Axel Doorman",
+                    "dateTimeStart": 1656090000,
+                    "dateTimeEnd": 1656097200,
+                    "going": false
+                },
+                "Squeaky Clean ": {
+                    "title": "Squeaky Clean ",
+                    "dateTimeStart": 1656097200,
+                    "dateTimeEnd": 1656100800,
+                    "going": false
+                },
+                "Nan0dot": {
+                    "title": "Nan0dot",
+                    "dateTimeStart": 1656100800,
+                    "dateTimeEnd": 1656104400,
+                    "going": false
+                },
+                "MC Stolker": {
+                    "title": "MC Stolker",
+                    "dateTimeStart": 1656104400,
+                    "dateTimeEnd": 1656106200,
+                    "going": false
+                }
+            },
+            "BLUE AFTERPARTY": {
+                "Rough Recruits presents Roughstate ": {
+                    "title": "Rough Recruits presents Roughstate ",
+                    "dateTimeStart": 1656104400,
+                    "dateTimeEnd": 1656111600,
+                    "going": false
+                }
+            },
+            "MAGENTA AFTERPARTY (SILENT)": {
+                "DJ Ginia ": {
+                    "title": "DJ Ginia ",
+                    "dateTimeStart": 1656104400,
+                    "dateTimeEnd": 1656108000,
+                    "going": false
+                },
+                "Outbreak ": {
+                    "title": "Outbreak ",
+                    "dateTimeStart": 1656108000,
+                    "dateTimeEnd": 1656111600,
+                    "going": false
+                }
+            },
+            "Heineken SILVER (SILENT)": {
+                "Releazer": {
+                    "title": "Releazer",
+                    "dateTimeStart": 1656104400,
+                    "dateTimeEnd": 1656108000,
+                    "going": false
+                },
+                "Jesse Jax": {
+                    "title": "Jesse Jax",
+                    "dateTimeStart": 1656108000,
+                    "dateTimeEnd": 1656110700,
+                    "going": false
+                },
+                "Galactixx": {
+                    "title": "Galactixx",
+                    "dateTimeStart": 1656110700,
+                    "dateTimeEnd": 1656113400,
+                    "going": false
+                },
+                "Luner": {
+                    "title": "Luner",
+                    "dateTimeStart": 1656113400,
+                    "dateTimeEnd": 1656116100,
+                    "going": false
+                },
+                "Crypton": {
+                    "title": "Crypton",
+                    "dateTimeStart": 1656116100,
+                    "dateTimeEnd": 1656118800,
+                    "going": false
+                }
+            },
+            "The Funky Cat (SILENT)": {
+                "Geck-o": {
+                    "title": "Geck-o",
+                    "dateTimeStart": 1656104400,
+                    "dateTimeEnd": 1656108000,
+                    "going": false
+                },
+                "D00d": {
+                    "title": "D00d",
+                    "dateTimeStart": 1656108000,
+                    "dateTimeEnd": 1656110700,
+                    "going": false
+                },
+                "Bitface": {
+                    "title": "Bitface",
+                    "dateTimeStart": 1656110700,
+                    "dateTimeEnd": 1656113400,
+                    "going": false
+                },
+                "STOIK": {
+                    "title": "STOIK",
+                    "dateTimeStart": 1656113400,
+                    "dateTimeEnd": 1656116100,
+                    "going": false
+                },
+                "Koarse": {
+                    "title": "Koarse",
+                    "dateTimeStart": 1656116100,
+                    "dateTimeEnd": 1656118800,
+                    "going": false
+                }
+            }
+        }
+    },
+    "saturday": {
+        "dateTimeStart": 1656147600,
+        "stages": {
+            "RED": {
+                "Stormerz": {
+                    "title": "Stormerz",
+                    "dateTimeStart": 1656151200,
+                    "dateTimeEnd": 1656154800,
+                    "going": false
+                },
+                "Primeshock": {
+                    "title": "Primeshock",
+                    "dateTimeStart": 1656154800,
+                    "dateTimeEnd": 1656158400,
+                    "going": false
+                },
+                "DJ The Prophet": {
+                    "title": "DJ The Prophet",
+                    "dateTimeStart": 1656158400,
+                    "dateTimeEnd": 1656162000,
+                    "going": false
+                },
+                "Noisecontrollers": {
+                    "title": "Noisecontrollers",
+                    "dateTimeStart": 1656162000,
+                    "dateTimeEnd": 1656165600,
+                    "going": false
+                },
+                "Power Hour": {
+                    "title": "Power Hour",
+                    "dateTimeStart": 1656165600,
+                    "dateTimeEnd": 1656169200,
+                    "going": false
+                },
+                "Geck-o Day Break session": {
+                    "title": "Geck-o Day Break session",
+                    "dateTimeStart": 1656169200,
+                    "dateTimeEnd": 1656171000,
+                    "going": false
+                },
+                "Coone": {
+                    "title": "Coone",
+                    "dateTimeStart": 1656171000,
+                    "dateTimeEnd": 1656174600,
+                    "going": false
+                },
+                "Psyko Punkz ": {
+                    "title": "Psyko Punkz ",
+                    "dateTimeStart": 1656174600,
+                    "dateTimeEnd": 1656177300,
+                    "going": false
+                },
+                "Phuture Noize": {
+                    "title": "Phuture Noize",
+                    "dateTimeStart": 1656177300,
+                    "dateTimeEnd": 1656180000,
+                    "going": false
+                },
+                "Rebelion": {
+                    "title": "Rebelion",
+                    "dateTimeStart": 1656180000,
+                    "dateTimeEnd": 1656182700,
+                    "going": false
+                },
+                "Warface": {
+                    "title": "Warface",
+                    "dateTimeStart": 1656182700,
+                    "dateTimeEnd": 1656186300,
+                    "going": false
+                },
+                "Gunz for Hire \u00e2\u20ac\u201c Death or Glory": {
+                    "title": "Gunz for Hire \u00e2\u20ac\u201c Death or Glory",
+                    "dateTimeStart": 1656186300,
+                    "dateTimeEnd": 1656189300,
+                    "going": false
+                },
+                "The Endshow": {
+                    "title": "The Endshow",
+                    "dateTimeStart": 1656189300,
+                    "dateTimeEnd": 1656190800,
+                    "going": false
+                },
+                "Hosted by Villain & DV8": {
+                    "title": "Hosted by Villain & DV8",
+                    "dateTimeStart": 1656190800,
+                    "dateTimeEnd": 1656192600,
+                    "going": false
+                }
+            },
+            "BLUE": {
+                "Thyron ": {
+                    "title": "Thyron ",
+                    "dateTimeStart": 1656147600,
+                    "dateTimeEnd": 1656151200,
+                    "going": false
+                },
+                "D-Attack": {
+                    "title": "D-Attack",
+                    "dateTimeStart": 1656151200,
+                    "dateTimeEnd": 1656154800,
+                    "going": false
+                },
+                "Clockartz": {
+                    "title": "Clockartz",
+                    "dateTimeStart": 1656154800,
+                    "dateTimeEnd": 1656158400,
+                    "going": false
+                },
+                "Aftershock ": {
+                    "title": "Aftershock ",
+                    "dateTimeStart": 1656158400,
+                    "dateTimeEnd": 1656162000,
+                    "going": false
+                },
+                "Rejecta": {
+                    "title": "Rejecta",
+                    "dateTimeStart": 1656162000,
+                    "dateTimeEnd": 1656165600,
+                    "going": false
+                },
+                "Ncrypta": {
+                    "title": "Ncrypta",
+                    "dateTimeStart": 1656165600,
+                    "dateTimeEnd": 1656169200,
+                    "going": false
+                },
+                "Degos & Re-Done": {
+                    "title": "Degos & Re-Done",
+                    "dateTimeStart": 1656169200,
+                    "dateTimeEnd": 1656172800,
+                    "going": false
+                },
+                "B-Front": {
+                    "title": "B-Front",
+                    "dateTimeStart": 1656172800,
+                    "dateTimeEnd": 1656176400,
+                    "going": false
+                },
+                "Adaro & Invector": {
+                    "title": "Adaro & Invector",
+                    "dateTimeStart": 1656176400,
+                    "dateTimeEnd": 1656180000,
+                    "going": false
+                },
+                "E-Force": {
+                    "title": "E-Force",
+                    "dateTimeStart": 1656180000,
+                    "dateTimeEnd": 1656183600,
+                    "going": false
+                },
+                "Act of Rage": {
+                    "title": "Act of Rage",
+                    "dateTimeStart": 1656183600,
+                    "dateTimeEnd": 1656187200,
+                    "going": false
+                },
+                "Hosted by Livid": {
+                    "title": "Hosted by Livid",
+                    "dateTimeStart": 1656187200,
+                    "dateTimeEnd": 1656189000,
+                    "going": false
+                }
+            },
+            "BLACK": {
+                "Forsaken": {
+                    "title": "Forsaken",
+                    "dateTimeStart": 1656147600,
+                    "dateTimeEnd": 1656151200,
+                    "going": false
+                },
+                "Broken Minds": {
+                    "title": "Broken Minds",
+                    "dateTimeStart": 1656151200,
+                    "dateTimeEnd": 1656154800,
+                    "going": false
+                },
+                "I:GOR": {
+                    "title": "I:GOR",
+                    "dateTimeStart": 1656154800,
+                    "dateTimeEnd": 1656160200,
+                    "going": false
+                },
+                "Korsakoff": {
+                    "title": "Korsakoff",
+                    "dateTimeStart": 1656160200,
+                    "dateTimeEnd": 1656163800,
+                    "going": false
+                },
+                "Wasted Mind": {
+                    "title": "Wasted Mind",
+                    "dateTimeStart": 1656163800,
+                    "dateTimeEnd": 1656169200,
+                    "going": false
+                },
+                "AniMe": {
+                    "title": "AniMe",
+                    "dateTimeStart": 1656169200,
+                    "dateTimeEnd": 1656172800,
+                    "going": false
+                },
+                "D-Fence": {
+                    "title": "D-Fence",
+                    "dateTimeStart": 1656172800,
+                    "dateTimeEnd": 1656176400,
+                    "going": false
+                },
+                "Mad Dog": {
+                    "title": "Mad Dog",
+                    "dateTimeStart": 1656176400,
+                    "dateTimeEnd": 1656180000,
+                    "going": false
+                },
+                "Spitnoise": {
+                    "title": "Spitnoise",
+                    "dateTimeStart": 1656180000,
+                    "dateTimeEnd": 1656183600,
+                    "going": false
+                },
+                "The Satan": {
+                    "title": "The Satan",
+                    "dateTimeStart": 1656183600,
+                    "dateTimeEnd": 1656187200,
+                    "going": false
+                },
+                "F. N\u00c3\u00b8IzE": {
+                    "title": "F. N\u00c3\u00b8IzE",
+                    "dateTimeStart": 1656187200,
+                    "dateTimeEnd": 1656190800,
+                    "going": false
+                },
+                "Hosted by Alee": {
+                    "title": "Hosted by Alee",
+                    "dateTimeStart": 1656190800,
+                    "dateTimeEnd": 1656192600,
+                    "going": false
+                }
+            },
+            "UV": {
+                "Warrior Workout ": {
+                    "title": "Warrior Workout ",
+                    "dateTimeStart": 1656147600,
+                    "dateTimeEnd": 1656150300,
+                    "going": false
+                },
+                "Refuzion": {
+                    "title": "Refuzion",
+                    "dateTimeStart": 1656150300,
+                    "dateTimeEnd": 1656153000,
+                    "going": false
+                },
+                "Retrospect": {
+                    "title": "Retrospect",
+                    "dateTimeStart": 1656153000,
+                    "dateTimeEnd": 1656155700,
+                    "going": false
+                },
+                "Galactixx": {
+                    "title": "Galactixx",
+                    "dateTimeStart": 1656155700,
+                    "dateTimeEnd": 1656159300,
+                    "going": false
+                },
+                "Dr Phunk": {
+                    "title": "Dr Phunk",
+                    "dateTimeStart": 1656159300,
+                    "dateTimeEnd": 1656162000,
+                    "going": false
+                },
+                "Wasted Penguinz": {
+                    "title": "Wasted Penguinz",
+                    "dateTimeStart": 1656162000,
+                    "dateTimeEnd": 1656165600,
+                    "going": false
+                },
+                "The Pitcher": {
+                    "title": "The Pitcher",
+                    "dateTimeStart": 1656165600,
+                    "dateTimeEnd": 1656169200,
+                    "going": false
+                },
+                "Adrenalize": {
+                    "title": "Adrenalize",
+                    "dateTimeStart": 1656169200,
+                    "dateTimeEnd": 1656172800,
+                    "going": false
+                },
+                "DJ Isaac": {
+                    "title": "DJ Isaac",
+                    "dateTimeStart": 1656172800,
+                    "dateTimeEnd": 1656176400,
+                    "going": false
+                },
+                "TNT": {
+                    "title": "TNT",
+                    "dateTimeStart": 1656176400,
+                    "dateTimeEnd": 1656180000,
+                    "going": false
+                },
+                "2 \u00e2\u2013\u00b2 1 ": {
+                    "title": "2 \u00e2\u2013\u00b2 1 ",
+                    "dateTimeStart": 1656180000,
+                    "dateTimeEnd": 1656183600,
+                    "going": false
+                },
+                "Bass Modulators": {
+                    "title": "Bass Modulators",
+                    "dateTimeStart": 1656183600,
+                    "dateTimeEnd": 1656187200,
+                    "going": false
+                },
+                "Hosted by DL": {
+                    "title": "Hosted by DL",
+                    "dateTimeStart": 1656187200,
+                    "dateTimeEnd": 1656189000,
+                    "going": false
+                }
+            },
+            "MAGENTA": {
+                "Baba": {
+                    "title": "Baba",
+                    "dateTimeStart": 1656147600,
+                    "dateTimeEnd": 1656153000,
+                    "going": false
+                },
+                "Sunny D": {
+                    "title": "Sunny D",
+                    "dateTimeStart": 1656153000,
+                    "dateTimeEnd": 1656158400,
+                    "going": false
+                },
+                "Super Marco May": {
+                    "title": "Super Marco May",
+                    "dateTimeStart": 1656158400,
+                    "dateTimeEnd": 1656162000,
+                    "going": false
+                },
+                "A-Lusion": {
+                    "title": "A-Lusion",
+                    "dateTimeStart": 1656162000,
+                    "dateTimeEnd": 1656165600,
+                    "going": false
+                },
+                "DJ Ruffian": {
+                    "title": "DJ Ruffian",
+                    "dateTimeStart": 1656165600,
+                    "dateTimeEnd": 1656169200,
+                    "going": false
+                },
+                "Daniele Mondello": {
+                    "title": "Daniele Mondello",
+                    "dateTimeStart": 1656169200,
+                    "dateTimeEnd": 1656172800,
+                    "going": false
+                },
+                "Dana & Luna": {
+                    "title": "Dana & Luna",
+                    "dateTimeStart": 1656172800,
+                    "dateTimeEnd": 1656176400,
+                    "going": false
+                },
+                "Pavo": {
+                    "title": "Pavo",
+                    "dateTimeStart": 1656176400,
+                    "dateTimeEnd": 1656180000,
+                    "going": false
+                },
+                "Franky Jones": {
+                    "title": "Franky Jones",
+                    "dateTimeStart": 1656180000,
+                    "dateTimeEnd": 1656183600,
+                    "going": false
+                },
+                "Bass-D": {
+                    "title": "Bass-D",
+                    "dateTimeStart": 1656183600,
+                    "dateTimeEnd": 1656187200,
+                    "going": false
+                },
+                "Hosted by Ruffian": {
+                    "title": "Hosted by Ruffian",
+                    "dateTimeStart": 1656187200,
+                    "dateTimeEnd": 1656189000,
+                    "going": false
+                }
+            },
+            "INDIGO": {
+                "Level One": {
+                    "title": "Level One",
+                    "dateTimeStart": 1656147600,
+                    "dateTimeEnd": 1656153000,
+                    "going": false
+                },
+                "Mutilator & Fraw ": {
+                    "title": "Mutilator & Fraw ",
+                    "dateTimeStart": 1656153000,
+                    "dateTimeEnd": 1656158400,
+                    "going": false
+                },
+                "Crystal Mad ": {
+                    "title": "Crystal Mad ",
+                    "dateTimeStart": 1656158400,
+                    "dateTimeEnd": 1656162000,
+                    "going": false
+                },
+                "JNXD": {
+                    "title": "JNXD",
+                    "dateTimeStart": 1656162000,
+                    "dateTimeEnd": 1656165600,
+                    "going": false
+                },
+                "Chris One ": {
+                    "title": "Chris One ",
+                    "dateTimeStart": 1656165600,
+                    "dateTimeEnd": 1656169200,
+                    "going": false
+                },
+                "Oxya": {
+                    "title": "Oxya",
+                    "dateTimeStart": 1656169200,
+                    "dateTimeEnd": 1656172800,
+                    "going": false
+                },
+                "The Purge presents TRIPPIN\u00e2\u20ac\u2122": {
+                    "title": "The Purge presents TRIPPIN\u00e2\u20ac\u2122",
+                    "dateTimeStart": 1656172800,
+                    "dateTimeEnd": 1656174600,
+                    "going": false
+                },
+                "Amentis ": {
+                    "title": "Amentis ",
+                    "dateTimeStart": 1656174600,
+                    "dateTimeEnd": 1656178200,
+                    "going": false
+                },
+                "Sins of Insanity": {
+                    "title": "Sins of Insanity",
+                    "dateTimeStart": 1656178200,
+                    "dateTimeEnd": 1656181800,
+                    "going": false
+                },
+                "High Voltage ": {
+                    "title": "High Voltage ",
+                    "dateTimeStart": 1656181800,
+                    "dateTimeEnd": 1656185400,
+                    "going": false
+                },
+                "Krowdexx": {
+                    "title": "Krowdexx",
+                    "dateTimeStart": 1656185400,
+                    "dateTimeEnd": 1656190800,
+                    "going": false
+                },
+                "Hosted by Focus": {
+                    "title": "Hosted by Focus",
+                    "dateTimeStart": 1656190800,
+                    "dateTimeEnd": 1656192600,
+                    "going": false
+                }
+            },
+            "YELLOW": {
+                "The Dope Doctor": {
+                    "title": "The Dope Doctor",
+                    "dateTimeStart": 1656147600,
+                    "dateTimeEnd": 1656151200,
+                    "going": false
+                },
+                "Irradiate": {
+                    "title": "Irradiate",
+                    "dateTimeStart": 1656151200,
+                    "dateTimeEnd": 1656154800,
+                    "going": false
+                },
+                "Floxytek": {
+                    "title": "Floxytek",
+                    "dateTimeStart": 1656154800,
+                    "dateTimeEnd": 1656158400,
+                    "going": false
+                },
+                "The Sickest Squad": {
+                    "title": "The Sickest Squad",
+                    "dateTimeStart": 1656158400,
+                    "dateTimeEnd": 1656162000,
+                    "going": false
+                },
+                "D-Frek LIVE": {
+                    "title": "D-Frek LIVE",
+                    "dateTimeStart": 1656162000,
+                    "dateTimeEnd": 1656163800,
+                    "going": false
+                },
+                "Vandal!sm": {
+                    "title": "Vandal!sm",
+                    "dateTimeStart": 1656163800,
+                    "dateTimeEnd": 1656167400,
+                    "going": false
+                },
+                "Soulblast": {
+                    "title": "Soulblast",
+                    "dateTimeStart": 1656167400,
+                    "dateTimeEnd": 1656171000,
+                    "going": false
+                },
+                "Lady Dammage ": {
+                    "title": "Lady Dammage ",
+                    "dateTimeStart": 1656171000,
+                    "dateTimeEnd": 1656174600,
+                    "going": false
+                },
+                "Chaotic Hostility ": {
+                    "title": "Chaotic Hostility ",
+                    "dateTimeStart": 1656174600,
+                    "dateTimeEnd": 1656178200,
+                    "going": false
+                },
+                "Angernoizer & Cryogenic": {
+                    "title": "Angernoizer & Cryogenic",
+                    "dateTimeStart": 1656178200,
+                    "dateTimeEnd": 1656181800,
+                    "going": false
+                },
+                "The Dark Horror": {
+                    "title": "The Dark Horror",
+                    "dateTimeStart": 1656181800,
+                    "dateTimeEnd": 1656185400,
+                    "going": false
+                },
+                "Dimitri K": {
+                    "title": "Dimitri K",
+                    "dateTimeStart": 1656185400,
+                    "dateTimeEnd": 1656189000,
+                    "going": false
+                },
+                "Shock-N-Destroy": {
+                    "title": "Shock-N-Destroy",
+                    "dateTimeStart": 1656189000,
+                    "dateTimeEnd": 1656190800,
+                    "going": false
+                },
+                "Hosted by Mc RG ": {
+                    "title": "Hosted by Mc RG ",
+                    "dateTimeStart": 1656190800,
+                    "dateTimeEnd": 1656192600,
+                    "going": false
+                }
+            },
+            "GOLD": {
+                "Rave Generators": {
+                    "title": "Rave Generators",
+                    "dateTimeStart": 1656147600,
+                    "dateTimeEnd": 1656151200,
+                    "going": false
+                },
+                "Panic ": {
+                    "title": "Panic ",
+                    "dateTimeStart": 1656151200,
+                    "dateTimeEnd": 1656156600,
+                    "going": false
+                },
+                "The Raver": {
+                    "title": "The Raver",
+                    "dateTimeStart": 1656156600,
+                    "dateTimeEnd": 1656162000,
+                    "going": false
+                },
+                "Lady Dana": {
+                    "title": "Lady Dana",
+                    "dateTimeStart": 1656162000,
+                    "dateTimeEnd": 1656165600,
+                    "going": false
+                },
+                "Pila": {
+                    "title": "Pila",
+                    "dateTimeStart": 1656165600,
+                    "dateTimeEnd": 1656169200,
+                    "going": false
+                },
+                "Rob Gee": {
+                    "title": "Rob Gee",
+                    "dateTimeStart": 1656169200,
+                    "dateTimeEnd": 1656172800,
+                    "going": false
+                },
+                "Dano": {
+                    "title": "Dano",
+                    "dateTimeStart": 1656172800,
+                    "dateTimeEnd": 1656176400,
+                    "going": false
+                },
+                "Buzz Fuzz": {
+                    "title": "Buzz Fuzz",
+                    "dateTimeStart": 1656176400,
+                    "dateTimeEnd": 1656180000,
+                    "going": false
+                },
+                "Vince": {
+                    "title": "Vince",
+                    "dateTimeStart": 1656180000,
+                    "dateTimeEnd": 1656183600,
+                    "going": false
+                },
+                "Steve-D": {
+                    "title": "Steve-D",
+                    "dateTimeStart": 1656183600,
+                    "dateTimeEnd": 1656187200,
+                    "going": false
+                },
+                "Hosted by Da Mouth of Madness": {
+                    "title": "Hosted by Da Mouth of Madness",
+                    "dateTimeStart": 1656187200,
+                    "dateTimeEnd": 1656189000,
+                    "going": false
+                }
+            },
+            "PURPLE": {
+                "Ephoric": {
+                    "title": "Ephoric",
+                    "dateTimeStart": 1656151200,
+                    "dateTimeEnd": 1656154800,
+                    "going": false
+                },
+                "Shockwave": {
+                    "title": "Shockwave",
+                    "dateTimeStart": 1656154800,
+                    "dateTimeEnd": 1656158400,
+                    "going": false
+                },
+                "Subraver": {
+                    "title": "Subraver",
+                    "dateTimeStart": 1656158400,
+                    "dateTimeEnd": 1656162000,
+                    "going": false
+                },
+                "Contest spot by Harderclass": {
+                    "title": "Contest spot by Harderclass",
+                    "dateTimeStart": 1656162000,
+                    "dateTimeEnd": 1656165600,
+                    "going": false
+                },
+                "Mortalis": {
+                    "title": "Mortalis",
+                    "dateTimeStart": 1656165600,
+                    "dateTimeEnd": 1656168300,
+                    "going": false
+                },
+                "Shockrage": {
+                    "title": "Shockrage",
+                    "dateTimeStart": 1656168300,
+                    "dateTimeEnd": 1656171900,
+                    "going": false
+                },
+                "Emphasis ": {
+                    "title": "Emphasis ",
+                    "dateTimeStart": 1656171900,
+                    "dateTimeEnd": 1656175500,
+                    "going": false
+                },
+                "Luner": {
+                    "title": "Luner",
+                    "dateTimeStart": 1656175500,
+                    "dateTimeEnd": 1656178200,
+                    "going": false
+                },
+                "K1": {
+                    "title": "K1",
+                    "dateTimeStart": 1656178200,
+                    "dateTimeEnd": 1656181800,
+                    "going": false
+                },
+                "Broken Element": {
+                    "title": "Broken Element",
+                    "dateTimeStart": 1656181800,
+                    "dateTimeEnd": 1656184500,
+                    "going": false
+                },
+                "Juju Rush": {
+                    "title": "Juju Rush",
+                    "dateTimeStart": 1656184500,
+                    "dateTimeEnd": 1656187200,
+                    "going": false
+                },
+                "Hosted by LePrince": {
+                    "title": "Hosted by LePrince",
+                    "dateTimeStart": 1656187200,
+                    "dateTimeEnd": 1656189000,
+                    "going": false
+                }
+            },
+            "SILVER": {
+                "Speedcore Dating": {
+                    "title": "Speedcore Dating",
+                    "dateTimeStart": 1656147600,
+                    "dateTimeEnd": 1656151200,
+                    "going": false
+                },
+                "Strange Arrival & Sacerdos Vigilia": {
+                    "title": "Strange Arrival & Sacerdos Vigilia",
+                    "dateTimeStart": 1656151200,
+                    "dateTimeEnd": 1656158400,
+                    "going": false
+                },
+                "N-Vitral & Dither": {
+                    "title": "N-Vitral & Dither",
+                    "dateTimeStart": 1656158400,
+                    "dateTimeEnd": 1656165600,
+                    "going": false
+                },
+                "HellFish & Bryan Fury": {
+                    "title": "HellFish & Bryan Fury",
+                    "dateTimeStart": 1656165600,
+                    "dateTimeEnd": 1656172800,
+                    "going": false
+                },
+                "Ophidian & Thrasher": {
+                    "title": "Ophidian & Thrasher",
+                    "dateTimeStart": 1656172800,
+                    "dateTimeEnd": 1656180000,
+                    "going": false
+                },
+                "The Outside Agency & Akira": {
+                    "title": "The Outside Agency & Akira",
+                    "dateTimeStart": 1656180000,
+                    "dateTimeEnd": 1656187200,
+                    "going": false
+                }
+            },
+            "THE BIG CHILL": {
+                "Rickert V": {
+                    "title": "Rickert V",
+                    "dateTimeStart": 1656147600,
+                    "dateTimeEnd": 1656154800,
+                    "going": false
+                },
+                "Ilja Reiman & William Jordens": {
+                    "title": "Ilja Reiman & William Jordens",
+                    "dateTimeStart": 1656154800,
+                    "dateTimeEnd": 1656160200,
+                    "going": false
+                },
+                "El Ni\u00c3\u00b1o": {
+                    "title": "El Ni\u00c3\u00b1o",
+                    "dateTimeStart": 1656160200,
+                    "dateTimeEnd": 1656164700,
+                    "going": false
+                },
+                "Ennik & Domenico Fania": {
+                    "title": "Ennik & Domenico Fania",
+                    "dateTimeStart": 1656164700,
+                    "dateTimeEnd": 1656170100,
+                    "going": false
+                },
+                "Wes S": {
+                    "title": "Wes S",
+                    "dateTimeStart": 1656170100,
+                    "dateTimeEnd": 1656176400,
+                    "going": false
+                },
+                "The HouseFreakerz ": {
+                    "title": "The HouseFreakerz ",
+                    "dateTimeStart": 1656176400,
+                    "dateTimeEnd": 1656181800,
+                    "going": false
+                },
+                "Ricardo Carota ": {
+                    "title": "Ricardo Carota ",
+                    "dateTimeStart": 1656181800,
+                    "dateTimeEnd": 1656187200,
+                    "going": false
+                },
+                "MorQuador": {
+                    "title": "MorQuador",
+                    "dateTimeStart": 1656187200,
+                    "dateTimeEnd": 1656190800,
+                    "going": false
+                },
+                "Hosted by MC Lowie & Lowie ": {
+                    "title": "Hosted by MC Lowie & Lowie ",
+                    "dateTimeStart": 1656190800,
+                    "dateTimeEnd": 1656192600,
+                    "going": false
+                }
+            },
+            "BLUE AFTERPARTY": {
+                "Scantraxx": {
+                    "title": "Scantraxx",
+                    "dateTimeStart": 1656192600,
+                    "dateTimeEnd": 1656201600,
+                    "going": false
+                }
+            },
+            "MAGENTA AFTERPARTY (SILENT)": {
+                "Blame Noise": {
+                    "title": "Blame Noise",
+                    "dateTimeStart": 1656190800,
+                    "dateTimeEnd": 1656194400,
+                    "going": false
+                },
+                "Levenkhan": {
+                    "title": "Levenkhan",
+                    "dateTimeStart": 1656194400,
+                    "dateTimeEnd": 1656198000,
+                    "going": false
+                }
+            },
+            "Heineken SILVER (SILENT)": {
+                "RWND": {
+                    "title": "RWND",
+                    "dateTimeStart": 1656190800,
+                    "dateTimeEnd": 1656194400,
+                    "going": false
+                },
+                "Hans Glock": {
+                    "title": "Hans Glock",
+                    "dateTimeStart": 1656194400,
+                    "dateTimeEnd": 1656197100,
+                    "going": false
+                },
+                "Stormerz": {
+                    "title": "Stormerz",
+                    "dateTimeStart": 1656197100,
+                    "dateTimeEnd": 1656199800,
+                    "going": false
+                },
+                "Scarra & Vasto": {
+                    "title": "Scarra & Vasto",
+                    "dateTimeStart": 1656199800,
+                    "dateTimeEnd": 1656202500,
+                    "going": false
+                },
+                "Nightshift": {
+                    "title": "Nightshift",
+                    "dateTimeStart": 1656202500,
+                    "dateTimeEnd": 1656205200,
+                    "going": false
+                }
+            },
+            "The Funky Cat (SILENT)": {
+                "D00d & STOIK": {
+                    "title": "D00d & STOIK",
+                    "dateTimeStart": 1656190800,
+                    "dateTimeEnd": 1656192600,
+                    "going": false
+                },
+                "Geck-o & STOIK": {
+                    "title": "Geck-o & STOIK",
+                    "dateTimeStart": 1656192600,
+                    "dateTimeEnd": 1656194400,
+                    "going": false
+                },
+                "Geck-o & DJ Hidden": {
+                    "title": "Geck-o & DJ Hidden",
+                    "dateTimeStart": 1656194400,
+                    "dateTimeEnd": 1656196200,
+                    "going": false
+                },
+                "D00d & DJ Hidden": {
+                    "title": "D00d & DJ Hidden",
+                    "dateTimeStart": 1656196200,
+                    "dateTimeEnd": 1656198000,
+                    "going": false
+                },
+                "D00d & Koarse": {
+                    "title": "D00d & Koarse",
+                    "dateTimeStart": 1656198000,
+                    "dateTimeEnd": 1656199800,
+                    "going": false
+                },
+                "Bitface & Koarse": {
+                    "title": "Bitface & Koarse",
+                    "dateTimeStart": 1656199800,
+                    "dateTimeEnd": 1656201600,
+                    "going": false
+                },
+                "Bitface & Geck-o": {
+                    "title": "Bitface & Geck-o",
+                    "dateTimeStart": 1656201600,
+                    "dateTimeEnd": 1656203400,
+                    "going": false
+                },
+                "D00d & Geck-o": {
+                    "title": "D00d & Geck-o",
+                    "dateTimeStart": 1656203400,
+                    "dateTimeEnd": 1656205200,
+                    "going": false
+                }
+            }
+        }
+    },
+    "sunday": {
+        "dateTimeStart": 1656234000,
+        "stages": {
+            "RED": {
+                "Defqon.1 Legends": {
+                    "title": "Defqon.1 Legends",
+                    "dateTimeStart": 1656266400,
+                    "dateTimeEnd": 1656274800,
+                    "going": false
+                },
+                "Ghost Stories": {
+                    "title": "Ghost Stories",
+                    "dateTimeStart": 1656274800,
+                    "dateTimeEnd": 1656276600,
+                    "going": false
+                },
+                "The Closing Ritual": {
+                    "title": "The Closing Ritual",
+                    "dateTimeStart": 1656276600,
+                    "dateTimeEnd": 1656277200,
+                    "going": false
+                },
+                "Hosted by Villain ": {
+                    "title": "Hosted by Villain ",
+                    "dateTimeStart": 1656277200,
+                    "dateTimeEnd": 1656279000,
+                    "going": false
+                }
+            },
+            "BLUE": {
+                "Luna": {
+                    "title": "Luna",
+                    "dateTimeStart": 1656237600,
+                    "dateTimeEnd": 1656243000,
+                    "going": false
+                },
+                "Apexx": {
+                    "title": "Apexx",
+                    "dateTimeStart": 1656243000,
+                    "dateTimeEnd": 1656248400,
+                    "going": false
+                },
+                "Digital Punk": {
+                    "title": "Digital Punk",
+                    "dateTimeStart": 1656248400,
+                    "dateTimeEnd": 1656252000,
+                    "going": false
+                },
+                "Endymion": {
+                    "title": "Endymion",
+                    "dateTimeStart": 1656252000,
+                    "dateTimeEnd": 1656255600,
+                    "going": false
+                },
+                "Deetox": {
+                    "title": "Deetox",
+                    "dateTimeStart": 1656255600,
+                    "dateTimeEnd": 1656259200,
+                    "going": false
+                },
+                "Crypsis & Regain": {
+                    "title": "Crypsis & Regain",
+                    "dateTimeStart": 1656259200,
+                    "dateTimeEnd": 1656262800,
+                    "going": false
+                },
+                "Radical Redemption": {
+                    "title": "Radical Redemption",
+                    "dateTimeStart": 1656262800,
+                    "dateTimeEnd": 1656266400,
+                    "going": false
+                },
+                "Rooler": {
+                    "title": "Rooler",
+                    "dateTimeStart": 1656266400,
+                    "dateTimeEnd": 1656270000,
+                    "going": false
+                },
+                "Jason Payne": {
+                    "title": "Jason Payne",
+                    "dateTimeStart": 1656270000,
+                    "dateTimeEnd": 1656273600,
+                    "going": false
+                },
+                "Main Concern presents \"A Lesson in Weird\"": {
+                    "title": "Main Concern presents \"A Lesson in Weird\"",
+                    "dateTimeStart": 1656273600,
+                    "dateTimeEnd": 1656277200,
+                    "going": false
+                },
+                "Hosted by DL": {
+                    "title": "Hosted by DL",
+                    "dateTimeStart": 1656277200,
+                    "dateTimeEnd": 1656279000,
+                    "going": false
+                }
+            },
+            "BLACK": {
+                "Open Airbed Concert with JDX": {
+                    "title": "Open Airbed Concert with JDX",
+                    "dateTimeStart": 1656234000,
+                    "dateTimeEnd": 1656237600,
+                    "going": false
+                },
+                "Audiofreq": {
+                    "title": "Audiofreq",
+                    "dateTimeStart": 1656237600,
+                    "dateTimeEnd": 1656243000,
+                    "going": false
+                },
+                "Tha Playah": {
+                    "title": "Tha Playah",
+                    "dateTimeStart": 1656243000,
+                    "dateTimeEnd": 1656246600,
+                    "going": false
+                },
+                "Paul Elstak": {
+                    "title": "Paul Elstak",
+                    "dateTimeStart": 1656246600,
+                    "dateTimeEnd": 1656250200,
+                    "going": false
+                },
+                "Evil Activities": {
+                    "title": "Evil Activities",
+                    "dateTimeStart": 1656250200,
+                    "dateTimeEnd": 1656253800,
+                    "going": false
+                },
+                "Angerfist & Deadly Guns": {
+                    "title": "Angerfist & Deadly Guns",
+                    "dateTimeStart": 1656253800,
+                    "dateTimeEnd": 1656257400,
+                    "going": false
+                },
+                "Frenchcore Familia ": {
+                    "title": "Frenchcore Familia ",
+                    "dateTimeStart": 1656257400,
+                    "dateTimeEnd": 1656261000,
+                    "going": false
+                },
+                "Partyraiser": {
+                    "title": "Partyraiser",
+                    "dateTimeStart": 1656261000,
+                    "dateTimeEnd": 1656266400,
+                    "going": false
+                },
+                "Hosted by Alee": {
+                    "title": "Hosted by Alee",
+                    "dateTimeStart": 1656266400,
+                    "dateTimeEnd": 1656268200,
+                    "going": false
+                }
+            },
+            "UV": {
+                "The Z": {
+                    "title": "The Z",
+                    "dateTimeStart": 1656234000,
+                    "dateTimeEnd": 1656237600,
+                    "going": false
+                },
+                "Altijd Larstig & Rob Gasd'rop pres. Defqon le Blanc": {
+                    "title": "Altijd Larstig & Rob Gasd'rop pres. Defqon le Blanc",
+                    "dateTimeStart": 1656237600,
+                    "dateTimeEnd": 1656240300,
+                    "going": false
+                },
+                "MANDY": {
+                    "title": "MANDY",
+                    "dateTimeStart": 1656240300,
+                    "dateTimeEnd": 1656243000,
+                    "going": false
+                },
+                "Dr. Rude ft. Hans Glock & Ransom": {
+                    "title": "Dr. Rude ft. Hans Glock & Ransom",
+                    "dateTimeStart": 1656243000,
+                    "dateTimeEnd": 1656246600,
+                    "going": false
+                },
+                "Problem Child ": {
+                    "title": "Problem Child ",
+                    "dateTimeStart": 1656246600,
+                    "dateTimeEnd": 1656248400,
+                    "going": false
+                },
+                "Mark with a K & Mc Chucky ": {
+                    "title": "Mark with a K & Mc Chucky ",
+                    "dateTimeStart": 1656248400,
+                    "dateTimeEnd": 1656252000,
+                    "going": false
+                },
+                "Bass Chaserz": {
+                    "title": "Bass Chaserz",
+                    "dateTimeStart": 1656252000,
+                    "dateTimeEnd": 1656255600,
+                    "going": false
+                },
+                "FeestDJRuud ": {
+                    "title": "FeestDJRuud ",
+                    "dateTimeStart": 1656255600,
+                    "dateTimeEnd": 1656259200,
+                    "going": false
+                },
+                "Outsiders": {
+                    "title": "Outsiders",
+                    "dateTimeStart": 1656259200,
+                    "dateTimeEnd": 1656262800,
+                    "going": false
+                },
+                "De Nachtbrakers": {
+                    "title": "De Nachtbrakers",
+                    "dateTimeStart": 1656262800,
+                    "dateTimeEnd": 1656266400,
+                    "going": false
+                },
+                "Crude Intentions ": {
+                    "title": "Crude Intentions ",
+                    "dateTimeStart": 1656266400,
+                    "dateTimeEnd": 1656270000,
+                    "going": false
+                },
+                "Zany": {
+                    "title": "Zany",
+                    "dateTimeStart": 1656270000,
+                    "dateTimeEnd": 1656273600,
+                    "going": false
+                },
+                "The Darkraver": {
+                    "title": "The Darkraver",
+                    "dateTimeStart": 1656273600,
+                    "dateTimeEnd": 1656277200,
+                    "going": false
+                },
+                "Hosted by LePrince & Boogshe": {
+                    "title": "Hosted by LePrince & Boogshe",
+                    "dateTimeStart": 1656277200,
+                    "dateTimeEnd": 1656279000,
+                    "going": false
+                }
+            },
+            "MAGENTA": {
+                "Josh & Wesz": {
+                    "title": "Josh & Wesz",
+                    "dateTimeStart": 1656234000,
+                    "dateTimeEnd": 1656237600,
+                    "going": false
+                },
+                "Jones": {
+                    "title": "Jones",
+                    "dateTimeStart": 1656237600,
+                    "dateTimeEnd": 1656241200,
+                    "going": false
+                },
+                "Deepack": {
+                    "title": "Deepack",
+                    "dateTimeStart": 1656241200,
+                    "dateTimeEnd": 1656244800,
+                    "going": false
+                },
+                "Max Enforcer": {
+                    "title": "Max Enforcer",
+                    "dateTimeStart": 1656244800,
+                    "dateTimeEnd": 1656248400,
+                    "going": false
+                },
+                "DJ Isaac": {
+                    "title": "DJ Isaac",
+                    "dateTimeStart": 1656248400,
+                    "dateTimeEnd": 1656252000,
+                    "going": false
+                },
+                "Frontliner": {
+                    "title": "Frontliner",
+                    "dateTimeStart": 1656252000,
+                    "dateTimeEnd": 1656255600,
+                    "going": false
+                },
+                "Bass Modulators": {
+                    "title": "Bass Modulators",
+                    "dateTimeStart": 1656255600,
+                    "dateTimeEnd": 1656259200,
+                    "going": false
+                },
+                "Ran-D & Adaro ": {
+                    "title": "Ran-D & Adaro ",
+                    "dateTimeStart": 1656259200,
+                    "dateTimeEnd": 1656262800,
+                    "going": false
+                },
+                "B-Front": {
+                    "title": "B-Front",
+                    "dateTimeStart": 1656262800,
+                    "dateTimeEnd": 1656266400,
+                    "going": false
+                },
+                "Hosted by DV8": {
+                    "title": "Hosted by DV8",
+                    "dateTimeStart": 1656266400,
+                    "dateTimeEnd": 1656268200,
+                    "going": false
+                }
+            },
+            "INDIGO": {
+                "Mish": {
+                    "title": "Mish",
+                    "dateTimeStart": 1656234000,
+                    "dateTimeEnd": 1656237600,
+                    "going": false
+                },
+                "Deluzion": {
+                    "title": "Deluzion",
+                    "dateTimeStart": 1656237600,
+                    "dateTimeEnd": 1656241200,
+                    "going": false
+                },
+                "Aversion": {
+                    "title": "Aversion",
+                    "dateTimeStart": 1656241200,
+                    "dateTimeEnd": 1656244800,
+                    "going": false
+                },
+                "Radianze": {
+                    "title": "Radianze",
+                    "dateTimeStart": 1656244800,
+                    "dateTimeEnd": 1656248400,
+                    "going": false
+                },
+                "RVAGE": {
+                    "title": "RVAGE",
+                    "dateTimeStart": 1656248400,
+                    "dateTimeEnd": 1656252000,
+                    "going": false
+                },
+                "Neroz": {
+                    "title": "Neroz",
+                    "dateTimeStart": 1656252000,
+                    "dateTimeEnd": 1656255600,
+                    "going": false
+                },
+                "Luminite": {
+                    "title": "Luminite",
+                    "dateTimeStart": 1656255600,
+                    "dateTimeEnd": 1656261000,
+                    "going": false
+                },
+                "Genox": {
+                    "title": "Genox",
+                    "dateTimeStart": 1656261000,
+                    "dateTimeEnd": 1656266400,
+                    "going": false
+                },
+                "Hosted by Livid": {
+                    "title": "Hosted by Livid",
+                    "dateTimeStart": 1656266400,
+                    "dateTimeEnd": 1656268200,
+                    "going": false
+                }
+            },
+            "YELLOW": {
+                "Barber": {
+                    "title": "Barber",
+                    "dateTimeStart": 1656234000,
+                    "dateTimeEnd": 1656237600,
+                    "going": false
+                },
+                "Le Bask": {
+                    "title": "Le Bask",
+                    "dateTimeStart": 1656237600,
+                    "dateTimeEnd": 1656241200,
+                    "going": false
+                },
+                "Crypton": {
+                    "title": "Crypton",
+                    "dateTimeStart": 1656241200,
+                    "dateTimeEnd": 1656244800,
+                    "going": false
+                },
+                "Billx ": {
+                    "title": "Billx ",
+                    "dateTimeStart": 1656244800,
+                    "dateTimeEnd": 1656248400,
+                    "going": false
+                },
+                "Deathroar": {
+                    "title": "Deathroar",
+                    "dateTimeStart": 1656248400,
+                    "dateTimeEnd": 1656252000,
+                    "going": false
+                },
+                "Radium": {
+                    "title": "Radium",
+                    "dateTimeStart": 1656252000,
+                    "dateTimeEnd": 1656255600,
+                    "going": false
+                },
+                "Imperial presents #ForeverGrindin'": {
+                    "title": "Imperial presents #ForeverGrindin'",
+                    "dateTimeStart": 1656255600,
+                    "dateTimeEnd": 1656259200,
+                    "going": false
+                },
+                "Sjammienators": {
+                    "title": "Sjammienators",
+                    "dateTimeStart": 1656259200,
+                    "dateTimeEnd": 1656262800,
+                    "going": false
+                },
+                "Noisekick": {
+                    "title": "Noisekick",
+                    "dateTimeStart": 1656262800,
+                    "dateTimeEnd": 1656266400,
+                    "going": false
+                },
+                "Hosted by Mc RG": {
+                    "title": "Hosted by Mc RG",
+                    "dateTimeStart": 1656266400,
+                    "dateTimeEnd": 1656268200,
+                    "going": false
+                }
+            },
+            "GOLD": {
+                "Waxweazle ": {
+                    "title": "Waxweazle ",
+                    "dateTimeStart": 1656234000,
+                    "dateTimeEnd": 1656237600,
+                    "going": false
+                },
+                "Danger Hardcore Team ": {
+                    "title": "Danger Hardcore Team ",
+                    "dateTimeStart": 1656237600,
+                    "dateTimeEnd": 1656241200,
+                    "going": false
+                },
+                "Tjerhakkers": {
+                    "title": "Tjerhakkers",
+                    "dateTimeStart": 1656250200,
+                    "dateTimeEnd": 1656252000,
+                    "going": false
+                },
+                "Gizmo": {
+                    "title": "Gizmo",
+                    "dateTimeStart": 1656243000,
+                    "dateTimeEnd": 1656246600,
+                    "going": false
+                },
+                "Marshall Masters & The Ultimate MC": {
+                    "title": "Marshall Masters & The Ultimate MC",
+                    "dateTimeStart": 1656246600,
+                    "dateTimeEnd": 1656250200,
+                    "going": false
+                },
+                "Critical Mass": {
+                    "title": "Critical Mass",
+                    "dateTimeStart": 1656252000,
+                    "dateTimeEnd": 1656255600,
+                    "going": false
+                },
+                "DHT": {
+                    "title": "DHT",
+                    "dateTimeStart": 1656255600,
+                    "dateTimeEnd": 1656257400,
+                    "going": false
+                },
+                "Party Animals": {
+                    "title": "Party Animals",
+                    "dateTimeStart": 1656257400,
+                    "dateTimeEnd": 1656259200,
+                    "going": false
+                },
+                "Dune": {
+                    "title": "Dune",
+                    "dateTimeStart": 1656259200,
+                    "dateTimeEnd": 1656262800,
+                    "going": false
+                },
+                "Predator ": {
+                    "title": "Predator ",
+                    "dateTimeStart": 1656262800,
+                    "dateTimeEnd": 1656266400,
+                    "going": false
+                },
+                "Hosted by Da Mouth of Madness": {
+                    "title": "Hosted by Da Mouth of Madness",
+                    "dateTimeStart": 1656266400,
+                    "dateTimeEnd": 1656268200,
+                    "going": false
+                }
+            },
+            "PURPLE": {
+                "Terror is liefde!": {
+                    "title": "Terror is liefde!",
+                    "dateTimeStart": 1656237600,
+                    "dateTimeEnd": 1656241200,
+                    "going": false
+                },
+                "Art Frequency": {
+                    "title": "Art Frequency",
+                    "dateTimeStart": 1656241200,
+                    "dateTimeEnd": 1656243900,
+                    "going": false
+                },
+                "Aranxa ": {
+                    "title": "Aranxa ",
+                    "dateTimeStart": 1656243900,
+                    "dateTimeEnd": 1656246600,
+                    "going": false
+                },
+                "Vexxed": {
+                    "title": "Vexxed",
+                    "dateTimeStart": 1656246600,
+                    "dateTimeEnd": 1656249300,
+                    "going": false
+                },
+                "TWSTD & Mc Sarge ": {
+                    "title": "TWSTD & Mc Sarge ",
+                    "dateTimeStart": 1656249300,
+                    "dateTimeEnd": 1656252000,
+                    "going": false
+                },
+                "Anderex": {
+                    "title": "Anderex",
+                    "dateTimeStart": 1656252000,
+                    "dateTimeEnd": 1656255600,
+                    "going": false
+                },
+                "Fraqment meets Frequalizer ": {
+                    "title": "Fraqment meets Frequalizer ",
+                    "dateTimeStart": 1656255600,
+                    "dateTimeEnd": 1656259200,
+                    "going": false
+                },
+                "Arya ": {
+                    "title": "Arya ",
+                    "dateTimeStart": 1656259200,
+                    "dateTimeEnd": 1656262800,
+                    "going": false
+                },
+                "Demencia": {
+                    "title": "Demencia",
+                    "dateTimeStart": 1656262800,
+                    "dateTimeEnd": 1656266400,
+                    "going": false
+                },
+                "Hosted by Synergy": {
+                    "title": "Hosted by Synergy",
+                    "dateTimeStart": 1656266400,
+                    "dateTimeEnd": 1656268200,
+                    "going": false
+                }
+            },
+            "SILVER": {
+                "Know V.A.": {
+                    "title": "Know V.A.",
+                    "dateTimeStart": 1656237600,
+                    "dateTimeEnd": 1656243000,
+                    "going": false
+                },
+                "Fracture 4": {
+                    "title": "Fracture 4",
+                    "dateTimeStart": 1656243000,
+                    "dateTimeEnd": 1656248400,
+                    "going": false
+                },
+                "Celsius LIVE": {
+                    "title": "Celsius LIVE",
+                    "dateTimeStart": 1656248400,
+                    "dateTimeEnd": 1656251100,
+                    "going": false
+                },
+                "Adamant Scream & Tymon ": {
+                    "title": "Adamant Scream & Tymon ",
+                    "dateTimeStart": 1656251100,
+                    "dateTimeEnd": 1656256500,
+                    "going": false
+                },
+                "Ruby My Dear LIVE": {
+                    "title": "Ruby My Dear LIVE",
+                    "dateTimeStart": 1656256500,
+                    "dateTimeEnd": 1656259200,
+                    "going": false
+                },
+                "Somniac One ": {
+                    "title": "Somniac One ",
+                    "dateTimeStart": 1656259200,
+                    "dateTimeEnd": 1656262800,
+                    "going": false
+                },
+                "Dolphin": {
+                    "title": "Dolphin",
+                    "dateTimeStart": 1656262800,
+                    "dateTimeEnd": 1656266400,
+                    "going": false
+                }
+            },
+            "THE BIG CHILL": {
+                "Retardo & Vincent Swierstra": {
+                    "title": "Retardo & Vincent Swierstra",
+                    "dateTimeStart": 1656234000,
+                    "dateTimeEnd": 1656237600,
+                    "going": false
+                },
+                "Vaagrid": {
+                    "title": "Vaagrid",
+                    "dateTimeStart": 1656237600,
+                    "dateTimeEnd": 1656241200,
+                    "going": false
+                },
+                "Mister Smile": {
+                    "title": "Mister Smile",
+                    "dateTimeStart": 1656241200,
+                    "dateTimeEnd": 1656244800,
+                    "going": false
+                },
+                "Henjo Techno Show ": {
+                    "title": "Henjo Techno Show ",
+                    "dateTimeStart": 1656244800,
+                    "dateTimeEnd": 1656248400,
+                    "going": false
+                },
+                "St. Benhard": {
+                    "title": "St. Benhard",
+                    "dateTimeStart": 1656248400,
+                    "dateTimeEnd": 1656252000,
+                    "going": false
+                },
+                "Afes ": {
+                    "title": "Afes ",
+                    "dateTimeStart": 1656252000,
+                    "dateTimeEnd": 1656255600,
+                    "going": false
+                },
+                "Michiel Tettero": {
+                    "title": "Michiel Tettero",
+                    "dateTimeStart": 1656255600,
+                    "dateTimeEnd": 1656259200,
+                    "going": false
+                },
+                "Revilo & Devocion ": {
+                    "title": "Revilo & Devocion ",
+                    "dateTimeStart": 1656259200,
+                    "dateTimeEnd": 1656262800,
+                    "going": false
+                },
+                "MJAY": {
+                    "title": "MJAY",
+                    "dateTimeStart": 1656262800,
+                    "dateTimeEnd": 1656266400,
+                    "going": false
+                },
+                "Hosted by MC Lowie & Lowie ": {
+                    "title": "Hosted by MC Lowie & Lowie ",
+                    "dateTimeStart": 1656266400,
+                    "dateTimeEnd": 1656268200,
+                    "going": false
+                }
+            }
+        }
+    }
+}

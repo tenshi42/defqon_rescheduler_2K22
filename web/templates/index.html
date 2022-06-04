@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Defqon timeTabler</title>
+    <script src="/static/js/jquery-3.6.0.min.js"></script>
+    <script src="/static/js/functions.js"></script>
+    <link type="text/css" rel="stylesheet" href="/static/css/style.css"/>
+</head>
+<body>
+    <label for="user_select">User : </label>
+    <select id="user_select">
+        {% for user in users %}
+            <option value="{{ user.username }}">{{ user.username }}</option>
+        {% endfor %}
+    </select>
+    <br>
+    <button>Load</button>
+
+    <div id="table_anchor"></div>
+</body>
+</html>

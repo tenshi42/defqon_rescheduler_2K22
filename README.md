@@ -6,6 +6,7 @@ MongoDB last version
   
 python  
 Install requirements "requirements.txt"  
+May need to pip install pymongo[srv]
 Run server :   
     - in /web:  
         - set FLASK_APP=server.py  

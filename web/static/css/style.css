@@ -1,40 +1,59 @@
+body {
+    background-image: url("../assets/defqon-bg-black.jpg");
+    color: #8a8a90;
+    font-family: trim_Regular,sans-serif;
+}
+
+#users {
+    height: 5vh;
+}
+
 #table_anchor{
     border: 1px solid black;
+    margin: 15px;
+    background: #1F1E1E;
+    height: 90vh;
+}
+
+#table_body {
+    overflow: auto;
+    white-space: nowrap;
+    height: calc(100% - 45px);
+    width: 100%;
 }
 
 .day_tab{
-    padding: 15px;
-    border: 1px solid black;
     display: inline-block;
-    margin: 5px;
+    width: 25%;
+    margin: 0;
+    border: 0;
+    padding: 15px;
+    background: #1F1E1E;
+    color: inherit;
+    text-transform: uppercase;
+    cursor: pointer;
 }
 
 .day_tab:hover{
-    background-color: #e38787;
+    color: white;
 }
 
 .day_selected{
-    background-color: #771919;
+    background: linear-gradient(270deg,#e73e11,#f59e00);
+    color: white;
 }
 
 .day_panel{
-    border: 1px solid black;
-    margin: 2px;
-    overflow-x: visible;
+    width: 100%;
+    height: 100%;
 }
 
-.scene_panel{
+.stage_panel{
     border: 1px solid black;
     margin: 2px;
     display: inline-block;
     vertical-align: top;
     width: 200px;
-    height: 1000px;
-    transition: width 250ms;
-}
-
-.scene_panel:hover{
-    width: 400px;
 }
 
 .slot_panel{

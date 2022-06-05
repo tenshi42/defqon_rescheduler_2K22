@@ -8,14 +8,16 @@
     <link type="text/css" rel="stylesheet" href="/static/css/style.css"/>
 </head>
 <body>
-    <label for="user_select">User : </label>
-    <select id="user_select">
-        {% for user in users %}
+    <div id="users">
+        <label for="user_select">User : </label>
+        <select id="user_select">
+            {% for user in users %}
             <option value="{{ user.username }}">{{ user.username }}</option>
-        {% endfor %}
-    </select>
-    <br>
-    <button>Load</button>
+            {% endfor %}
+        </select>
+        <br>
+        <button>Load</button>
+    </div>
 
     <div id="table_anchor"></div>
 </body>

@@ -1,4 +1,5 @@
 var users;
+var currentUser;
 
 function setCookie(cname, cvalue, exdays) {
   const d = new Date();
@@ -28,8 +29,14 @@ function buildUserViewButtons(users) {
 
     for (let i = 0; i < users.length; i++) {
         let button = $(`<button class="user_view_button">${users[i].username}</button>`);
+        let username = users[i].username
+        button.click({button, username}, onClickUserButton)
         $("#views_users").append(button)
     }
+}
+
+function onClickUserButton(event){
+    currentUser = event.data.username
 }
 
 function buildTable(data) {
@@ -124,6 +131,10 @@ function buildSlot(day, slotData) {
 
     slotPanel.css("height", `${slotData.duration * 3 - 5}px`)
 
+    let slotId = slotData.id;
+
+    slotPanel.click({slotPanel, slotId}, onClickSlot)
+
     return slotPanel
 }
 
@@ -142,10 +153,6 @@ function buildSlotHeader(day, slot_id) {
             tab.css("border-top-right-radius", "15px")
         }
 
-        /*if (user.picks?.[day]?.includes(slot)) {
-            tab.css("background-color", user.color)
-        }*/
-
         header.append(tab)
     }
 
@@ -153,23 +160,33 @@ function buildSlotHeader(day, slot_id) {
 }
 
 function refreshSlotHeaderStates(){
-    $(".slot_panel_header_tab").css("background-color", "none");
+    $(".slot_panel_header_tab").css("background-color", "");
 
     for (let i = 0; i < users.length; i++) {
         let user = users[i]
 
-        console.log(user.picks)
         if(user.picks !== undefined) {
-            console.log("in")
             for (let pick of user.picks) {
                 let selector = `#slot_header_${user.username}_${pick}`
                 let tab = $(selector)
                 tab.css("background-color", user.color)
-                console.log(selector)
-                console.log(tab)
             }
         }
     }
+}
+
+function onClickSlot(event){
+    $.get(`/update_picks/${currentUser}/${event.data.slotId}`)
+        .done(function (result){
+            if(result.status === "ok"){
+                for(let user of users){
+                    if(user.username === currentUser){
+                        user.picks = result.picks
+                    }
+                }
+                refreshSlotHeaderStates()
+            }
+        })
 }
 
 function loadUsers() {

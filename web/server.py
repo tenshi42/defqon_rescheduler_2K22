@@ -40,7 +40,28 @@ def users_filtered(included_users):
     return jsonify(list(db.users.find({"username": {"$in": user_filter}}, {'_id': 0})))
 
 
-@app.route("/update_scheduler/<user>")
-def update_scheduler(user):
-    db.user.update()
-    return jsonify(list(db.users.find({}, {'_id': 0})))
+@app.route("/update_picks/<user>/<pick>")
+def update_scheduler(user, pick):
+    user_data = db.users.find_one({"username": {"$eq": user}})
+    if not user_data:
+        return jsonify({"status": "ko"})
+    if "picks" not in user_data:
+        picks = []
+    else:
+        picks = user_data["picks"]
+
+    pick = int(pick)
+
+    if pick in picks:
+        picks.remove(pick)
+    else:
+        picks.append(pick)
+
+    update_result = db.users.update_one({"username": {"$eq": user}}, {"$set": {
+        "picks": picks}
+    })
+
+    if update_result.modified_count != 1:
+        return jsonify({"status": "ko"})
+    else:
+        return jsonify({"status": "ok", "picks": picks})

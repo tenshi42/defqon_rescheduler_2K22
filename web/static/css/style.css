@@ -52,7 +52,7 @@ body {
 
 .stage_header {
     display: inline-block;
-    width: 200px;
+    width: 190px;
     margin: 10px;
     padding: 5px;
     text-align: center;
@@ -90,6 +90,8 @@ body {
     display: block;
     padding: 5px;
     font-size: small;
+    border-bottom-left-radius: inherit;
+    border-bottom-right-radius: inherit;
 }
 
 .slot_panel_content span {

@@ -68,9 +68,10 @@ body {
     background: #8a8a90;
     color: white;
     text-transform: uppercase;
-    border-bottom: 5px solid #242021;
+    margin-bottom: 5px;
     vertical-align: middle;
     width: 190px;
+    border-radius: 10px;
 }
 
 .slot_panel_header {

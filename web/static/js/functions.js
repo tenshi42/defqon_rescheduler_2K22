@@ -113,6 +113,12 @@ function buildSlotHeader(day, slot) {
         let tab = $(`<div class="slot_panel_header_tab"></div>`)
         tab.css("width", `${100 / users.length}%`)
 
+        if (i === 0) {
+            tab.css("border-top-left-radius", "15px")
+        } else if (i === users.length - 1) {
+            tab.css("border-top-right-radius", "15px")
+        }
+
         if (user.picks?.[day]?.includes(slot)) {
             tab.css("background-color", user.color)
         }

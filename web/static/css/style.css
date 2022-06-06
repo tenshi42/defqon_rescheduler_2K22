@@ -68,20 +68,27 @@ body {
     background: #8a8a90;
     color: white;
     text-transform: uppercase;
-    border: 1px solid #242021;
+    border-bottom: 5px solid #242021;
     vertical-align: middle;
-    width: 188px;
-    padding: 5px;
+    width: 190px;
 }
 
-.empty_slot_panel {
+.slot_panel_header {
+    height: 10px;
+    display: flex;
+}
 
+.slot_panel_header_tab {
+    height: 100%;
+    display: inline-block;
 }
 
 .slot_panel_content {
-    width: 100%;
-    height: 100%;
+    width: calc(100% - 10px);
+    height: calc(100% - 20px);
     display: block;
+    padding: 5px;
+    font-size: small;
 }
 
 .slot_panel_content span {

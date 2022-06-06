@@ -1,4 +1,4 @@
-from flask import Flask, render_template, current_app, g
+from flask import Flask, render_template, current_app, g, jsonify
 from werkzeug.local import LocalProxy
 from flask_pymongo import PyMongo
 from config import Config
@@ -25,9 +25,9 @@ db = LocalProxy(get_db)
 
 
 @app.route("/")
-def hello_world():
-    users = db.users.find()
-    return render_template('index.html', users=users)
+def index():
+    return render_template('index.html')
 
-
-
+@app.route("/users")
+def users():
+    return jsonify(list(db.users.find({}, {'_id': 0})))

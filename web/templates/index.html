@@ -8,17 +8,18 @@
     <link type="text/css" rel="stylesheet" href="/static/css/style.css"/>
 </head>
 <body>
-    <div id="users">
-        <label for="user_select">User : </label>
-        <select id="user_select">
-            {% for user in users %}
-            <option value="{{ user.username }}">{{ user.username }}</option>
-            {% endfor %}
-        </select>
-        <br>
-        <button>Load</button>
+    <div id="views">
+        <button id="view_time_table">Time Table</button>
+        <button id="view_planning">Planning</button>
+        <div id="views_users"></div>
     </div>
 
-    <div id="table_anchor"></div>
+    <div id="table_anchor">
+        <div id='table_header'></div>
+        <div id='table_body'>
+            <div id='table_body_header'></div>
+            <div id='day_panel'></div>
+        </div>
+    </div>
 </body>
 </html>

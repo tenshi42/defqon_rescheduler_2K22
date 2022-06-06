@@ -65,3 +65,10 @@ def update_scheduler(user, pick):
         return jsonify({"status": "ko"})
     else:
         return jsonify({"status": "ok", "picks": picks})
+
+
+@app.route("/search_users/<search>")
+def search_users(search):
+    users = db.users.find({"username": {'$regex': search, '$options': 'i'}}, {'_id': 0, "picks": 0})
+    print(users)
+    return jsonify(list(users))

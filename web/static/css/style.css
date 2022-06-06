@@ -102,3 +102,54 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.user_view_button{
+    border: 2px solid black;
+    display: inline-block;
+    padding: 5px;
+    background-color: #1F1E1E;
+    cursor: pointer;
+    margin: 0 3px;
+}
+
+.user_view_button.selected{
+    background: linear-gradient(270deg, #e73e11, #f59e00);
+    color: white;
+}
+
+.user_view_button:hover{
+    color: white;
+}
+
+.remove_user{
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.remove_user:hover{
+    font-weight: bold;
+}
+
+#user_view_buttons{
+    margin: 10px;
+}
+
+#user_view_buttons, #add_user_panel{
+    display: inline-block;
+}
+
+.add_user_result_unit_panel{
+    padding: 5px;
+    width: 200px;
+    border: 2px solid black;
+    background-color: #1F1E1E;
+    cursor: pointer;
+}
+
+.add_user_result_unit_panel:hover{
+    color: white;
+}
+
+#add_user_result_panel{
+    position: absolute;
+}

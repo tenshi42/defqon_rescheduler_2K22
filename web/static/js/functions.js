@@ -1,5 +1,6 @@
 var users;
 var currentUser;
+var timeTableCached;
 
 function setCookie(cname, cvalue, exdays) {
   const d = new Date();
@@ -24,28 +25,138 @@ function getCookie(cname) {
   return "";
 }
 
+function removeItemOnce(arr, value) {
+  let index = arr.indexOf(value);
+  if (index > -1) {
+    arr.splice(index, 1);
+  }
+  return arr;
+}
+
+function softReloadPage(){
+    buildUserViewButtons(users)
+    buildTable(timeTableCached)
+    refreshSlotHeaderStates()
+}
+
 function buildUserViewButtons(users) {
+    let view_users = $("#views_users")
+    view_users.empty()
+
     this.users = users
 
+    let usersButtons = $("<div id='user_view_buttons'></div>")
+
     for (let i = 0; i < users.length; i++) {
-        let button = $(`<button class="user_view_button">${users[i].username}</button>`);
+        let button = $(`<div class="user_view_button" id="user_view_button_${users[i].username}"></div>`)
+        button.append($(`<span>${users[i].username}</span>`))
+
+        let removeButton = $("<span class='remove_user'>X</span>")
         let username = users[i].username
+        removeButton.click({removeButton, username}, onClickRemoveUser)
+
+        button.append(removeButton)
         button.click({button, username}, onClickUserButton)
-        $("#views_users").append(button)
+
+        usersButtons.append(button)
     }
+
+    view_users.append(usersButtons)
+
+    let addUserPanel = $("<span id='add_user_panel'>Add user : </span>")
+    let addUserInput = $("<input type='text' placeholder='UserName' id='add_user_input'/>")
+    addUserInput.bind('input', onChangeAddUserInput)
+
+    let addUserResultPanel = $("<div id='add_user_result_panel'></div>")
+
+    addUserPanel.append(addUserInput)
+    addUserPanel.append(addUserResultPanel)
+    view_users.append(addUserPanel)
+}
+
+function onClickRemoveUser(event){
+    removeUserData(event.data.username)
+    softReloadPage()
+}
+
+function onChangeAddUserInput(event){
+    console.log(event.target.value)
+    let search = event.target.value
+    if(search.length >= 2){
+        $.get(`/search_users/${search}`)
+            .done(function (result){
+                displayUserSearchResults(result)
+            })
+    }
+    else{
+        $("#add_user_result_panel").empty()
+    }
+}
+
+function displayUserSearchResults(result){
+    console.log(result)
+    for(let user of result){
+        let userPanel = $(`<div class="add_user_result_unit_panel">${user.username}</div>`)
+        userPanel.click({userPanel, user}, onClickAddPanelUnitResult)
+        $("#add_user_result_panel").append(userPanel)
+    }
+}
+
+function onClickAddPanelUnitResult(event){
+    let username = event.data.user.username
+    if(!getCookie("included_users").split(',').includes(username)) {
+        addUserData(event.data.user.username)
+        loadUsers();
+    }
+    else{
+        // Display popup to indicate that user in already displayed
+    }
+    $("#add_user_result_panel").empty()
+    $("#add_user_input").val("")
+}
+
+function removeUserData(username){
+    let userCookie = getCookie("included_users")
+    userCookie = userCookie.split(',')
+    userCookie = removeItemOnce(userCookie, username)
+    userCookie = userCookie.join()
+    setCookie("included_users", userCookie)
+
+    if(username === currentUser){
+        currentUser = undefined
+    }
+
+    for(let user of users){
+        if(user.username === username){
+            removeItemOnce(users, user)
+            break
+        }
+    }
+}
+
+function addUserData(user){
+    let userCookie = getCookie("included_users")
+    userCookie = userCookie.split(',')
+    userCookie.push(user)
+    userCookie = userCookie.join()
+    setCookie("included_users", userCookie)
 }
 
 function onClickUserButton(event){
     currentUser = event.data.username
+    $(".user_view_button.selected").removeClass("selected")
+    event.data.button.addClass("selected")
 }
 
 function buildTable(data) {
+    timeTableCached = data
     buildTableHeader(data);
     $(`#day_tab_${data[0].day}`).click()
 }
 
 function buildTableHeader(data) {
     let header = $("#table_header")
+    header.empty()
 
     for (let i in data) {
         let day = data[i]
@@ -60,6 +171,8 @@ function onClickDayTab(event) {
 
     $(".day_tab").removeClass("day_selected")
     event.data.dayTab.addClass("day_selected")
+
+    refreshSlotHeaderStates()
 }
 
 function buildDay(day) {
@@ -149,7 +262,8 @@ function buildSlotHeader(day, slot_id) {
 
         if (i === 0) {
             tab.css("border-top-left-radius", "15px")
-        } else if (i === users.length - 1) {
+        }
+        if (i === users.length - 1) {
             tab.css("border-top-right-radius", "15px")
         }
 

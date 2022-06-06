@@ -28,6 +28,19 @@ db = LocalProxy(get_db)
 def index():
     return render_template('index.html')
 
+
 @app.route("/users")
 def users():
+    return jsonify(list(db.users.find({}, {'_id': 0})))
+
+
+@app.route("/users/<included_users>")
+def users_filtered(included_users):
+    user_filter = included_users.split(",")
+    return jsonify(list(db.users.find({"username": {"$in": user_filter}}, {'_id': 0})))
+
+
+@app.route("/update_scheduler/<user>")
+def update_scheduler(user):
+    db.user.update()
     return jsonify(list(db.users.find({}, {'_id': 0})))

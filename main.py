@@ -40,6 +40,8 @@ def file_structurer(input_json_file, output_json_file):
     with open(input_json_file, 'r') as file:
         data = json.load(file)
 
+    id = 0
+
     for day in data:
         base_time = data[day]["dateTimeStart"]
 
@@ -53,6 +55,8 @@ def file_structurer(input_json_file, output_json_file):
                 data[day]["stages"][scene][slot]["startTimeFromZero"] = slot_start
                 data[day]["stages"][scene][slot]["endTimeFromZero"] = slot_end
                 data[day]["stages"][scene][slot]["duration"] = duration
+                data[day]["stages"][scene][slot]["id"] = id
+                id += 1
 
     with open(output_json_file, 'w') as file:
         json.dump(data, file, indent=4)
@@ -63,7 +67,7 @@ def main():
     json_file_light = "TimeTableLight.json"
     json_file_structured = "TimeTableStructured.json"
 
-    file_lightener(json_file, json_file_light)
+    # file_lightener(json_file, json_file_light)
     file_structurer(json_file_light, json_file_structured)
 
 

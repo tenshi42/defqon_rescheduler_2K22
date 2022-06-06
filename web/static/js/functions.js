@@ -1,5 +1,28 @@
 var users;
 
+function setCookie(cname, cvalue, exdays) {
+  const d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  let expires = "expires="+ d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
+function getCookie(cname) {
+  let name = cname + "=";
+  let decodedCookie = decodeURIComponent(document.cookie);
+  let ca = decodedCookie.split(';');
+  for(let i = 0; i <ca.length; i++) {
+    let c = ca[i];
+    while (c.charAt(0) === ' ') {
+      c = c.substring(1);
+    }
+    if (c.indexOf(name) === 0) {
+      return c.substring(name.length, c.length);
+    }
+  }
+  return "";
+}
+
 function buildUserViewButtons(users) {
     this.users = users
 
@@ -90,9 +113,9 @@ function buildEmptySlot(height) {
 }
 
 function buildSlot(day, slotData) {
-    let slotPanel = $(`<div class="slot_panel" id='${slotData.title}'></div>`)
+    let slotPanel = $(`<div class="slot_panel" id='slot_${slotData.id}'></div>`)
 
-    slotPanel.append(buildSlotHeader(day, slotData.title))
+    slotPanel.append(buildSlotHeader(day, slotData.id))
 
     let content = $('<div class="slot_panel_content"></div>')
     slotPanel.append(content)
@@ -104,13 +127,13 @@ function buildSlot(day, slotData) {
     return slotPanel
 }
 
-function buildSlotHeader(day, slot) {
+function buildSlotHeader(day, slot_id) {
     let header = $('<div class="slot_panel_header"></div>')
 
     for (let i = 0; i < users.length; i++) {
         let user = users[i]
 
-        let tab = $(`<div class="slot_panel_header_tab"></div>`)
+        let tab = $(`<div class="slot_panel_header_tab" id="slot_header_${user.username}_${slot_id}"></div>`)
         tab.css("width", `${100 / users.length}%`)
 
         if (i === 0) {
@@ -119,9 +142,9 @@ function buildSlotHeader(day, slot) {
             tab.css("border-top-right-radius", "15px")
         }
 
-        if (user.picks?.[day]?.includes(slot)) {
+        /*if (user.picks?.[day]?.includes(slot)) {
             tab.css("background-color", user.color)
-        }
+        }*/
 
         header.append(tab)
     }
@@ -129,8 +152,29 @@ function buildSlotHeader(day, slot) {
     return header
 }
 
+function refreshSlotHeaderStates(){
+    $(".slot_panel_header_tab").css("background-color", "none");
+
+    for (let i = 0; i < users.length; i++) {
+        let user = users[i]
+
+        console.log(user.picks)
+        if(user.picks !== undefined) {
+            console.log("in")
+            for (let pick of user.picks) {
+                let selector = `#slot_header_${user.username}_${pick}`
+                let tab = $(selector)
+                tab.css("background-color", user.color)
+                console.log(selector)
+                console.log(tab)
+            }
+        }
+    }
+}
+
 function loadUsers() {
-    $.get('/users')
+    let included_users = getCookie("included_users")
+    $.get('/users/' + included_users)
         .done(function (users) {
             buildUserViewButtons(users)
             loadDefaultTable()
@@ -143,6 +187,7 @@ function loadDefaultTable() {
             buildTable(Object.keys(data).map((key) => {
                 return {day: key, ...data[key]}
             }))
+            refreshSlotHeaderStates()
         })
 }
 

@@ -10,7 +10,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 0
                 },
                 "Wildstylez": {
                     "title": "Wildstylez",
@@ -19,7 +20,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 1
                 },
                 "Da Tweekaz [LIVE]": {
                     "title": "Da Tweekaz [LIVE]",
@@ -28,7 +30,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 390,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 2
                 },
                 "Zatox": {
                     "title": "Zatox",
@@ -37,7 +40,8 @@
                     "going": false,
                     "startTimeFromZero": 390,
                     "endTimeFromZero": 435,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 3
                 },
                 "Adaro": {
                     "title": "Adaro",
@@ -46,7 +50,8 @@
                     "going": false,
                     "startTimeFromZero": 435,
                     "endTimeFromZero": 480,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 4
                 },
                 "D-Sturb": {
                     "title": "D-Sturb",
@@ -55,7 +60,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 525,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 5
                 },
                 "Hosted by Villain": {
                     "title": "Hosted by Villain",
@@ -64,7 +70,8 @@
                     "going": false,
                     "startTimeFromZero": 525,
                     "endTimeFromZero": 555,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 6
                 }
             },
             "BLACK": {
@@ -75,7 +82,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 7
                 },
                 "Nosferatu": {
                     "title": "Nosferatu",
@@ -84,7 +92,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 8
                 },
                 "Miss K8": {
                     "title": "Miss K8",
@@ -93,7 +102,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 9
                 },
                 "Peacock in Concert": {
                     "title": "Peacock in Concert",
@@ -102,7 +112,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 10
                 },
                 "Deadly Guns": {
                     "title": "Deadly Guns",
@@ -111,7 +122,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 525,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 11
                 },
                 "Hosted by Da Mouth of Madness": {
                     "title": "Hosted by Da Mouth of Madness",
@@ -120,7 +132,8 @@
                     "going": false,
                     "startTimeFromZero": 525,
                     "endTimeFromZero": 555,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 12
                 }
             },
             "INDIGO": {
@@ -131,7 +144,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 345,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 13
                 },
                 "Invector": {
                     "title": "Invector",
@@ -140,7 +154,8 @@
                     "going": false,
                     "startTimeFromZero": 345,
                     "endTimeFromZero": 405,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 14
                 },
                 "Cryex": {
                     "title": "Cryex",
@@ -149,7 +164,8 @@
                     "going": false,
                     "startTimeFromZero": 405,
                     "endTimeFromZero": 465,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 15
                 },
                 "Imperatorz ": {
                     "title": "Imperatorz ",
@@ -158,7 +174,8 @@
                     "going": false,
                     "startTimeFromZero": 465,
                     "endTimeFromZero": 525,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 16
                 }
             },
             "THE WASTED LANDS 1": {
@@ -169,7 +186,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 17
                 },
                 "Plug 'N Play": {
                     "title": "Plug 'N Play",
@@ -178,7 +196,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 18
                 },
                 "Sickddellz ": {
                     "title": "Sickddellz ",
@@ -187,7 +206,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 180,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 19
                 },
                 "Jones": {
                     "title": "Jones",
@@ -196,7 +216,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 210,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 20
                 }
             },
             "THE WASTED LANDS 2": {
@@ -207,7 +228,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 21
                 },
                 "Scabtik": {
                     "title": "Scabtik",
@@ -216,7 +238,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 22
                 },
                 "Magnuz": {
                     "title": "Magnuz",
@@ -225,7 +248,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 165,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 23
                 },
                 "Hollow Point": {
                     "title": "Hollow Point",
@@ -234,7 +258,8 @@
                     "going": false,
                     "startTimeFromZero": 165,
                     "endTimeFromZero": 210,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 24
                 }
             },
             "THE BIG CHILL": {
@@ -245,7 +270,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 25
                 },
                 "Lady Lanka": {
                     "title": "Lady Lanka",
@@ -254,7 +280,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 26
                 },
                 "Kamara ": {
                     "title": "Kamara ",
@@ -263,7 +290,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 480,
-                    "duration": 120
+                    "duration": 120,
+                    "id": 27
                 },
                 "Squeaky Clean ": {
                     "title": "Squeaky Clean ",
@@ -272,7 +300,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 28
                 },
                 "MC Stolker": {
                     "title": "MC Stolker",
@@ -281,7 +310,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 570,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 29
                 }
             },
             "The Funky Cat (SILENT)": {
@@ -292,7 +322,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 660,
-                    "duration": 120
+                    "duration": 120,
+                    "id": 30
                 }
             }
         }
@@ -308,7 +339,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 180,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 31
                 },
                 "Demi Kanon": {
                     "title": "Demi Kanon",
@@ -317,7 +349,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 32
                 },
                 "Hard Driver": {
                     "title": "Hard Driver",
@@ -326,7 +359,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 33
                 },
                 "KELTEK": {
                     "title": "KELTEK",
@@ -335,7 +369,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 34
                 },
                 "Sound Rush [LIVE]": {
                     "title": "Sound Rush [LIVE]",
@@ -344,7 +379,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 390,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 35
                 },
                 "Atmozfears": {
                     "title": "Atmozfears",
@@ -353,7 +389,8 @@
                     "going": false,
                     "startTimeFromZero": 390,
                     "endTimeFromZero": 450,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 36
                 },
                 "Devin Wild: The Innergame LIVE": {
                     "title": "Devin Wild: The Innergame LIVE",
@@ -362,7 +399,8 @@
                     "going": false,
                     "startTimeFromZero": 450,
                     "endTimeFromZero": 480,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 37
                 },
                 "Headhunterz": {
                     "title": "Headhunterz",
@@ -371,7 +409,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 38
                 },
                 "Frequencerz Presents the Wolves are back": {
                     "title": "Frequencerz Presents the Wolves are back",
@@ -380,7 +419,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 585,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 39
                 },
                 "Ran-D": {
                     "title": "Ran-D",
@@ -389,7 +429,8 @@
                     "going": false,
                     "startTimeFromZero": 585,
                     "endTimeFromZero": 645,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 40
                 },
                 "Rejecta presents The Keymaker": {
                     "title": "Rejecta presents The Keymaker",
@@ -398,7 +439,8 @@
                     "going": false,
                     "startTimeFromZero": 645,
                     "endTimeFromZero": 690,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 41
                 },
                 "The Spotlight: Sub Zero Project": {
                     "title": "The Spotlight: Sub Zero Project",
@@ -407,7 +449,8 @@
                     "going": false,
                     "startTimeFromZero": 690,
                     "endTimeFromZero": 720,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 42
                 },
                 "Hosted by Villain & DV8": {
                     "title": "Hosted by Villain & DV8",
@@ -416,7 +459,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 750,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 43
                 }
             },
             "BLUE": {
@@ -427,7 +471,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 44
                 },
                 "Physika": {
                     "title": "Physika",
@@ -436,7 +481,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 45
                 },
                 "Bloodlust": {
                     "title": "Bloodlust",
@@ -445,7 +491,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 180,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 46
                 },
                 "Voidax": {
                     "title": "Voidax",
@@ -454,7 +501,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 47
                 },
                 "Vertile": {
                     "title": "Vertile",
@@ -463,7 +511,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 48
                 },
                 "Cryex": {
                     "title": "Cryex",
@@ -472,7 +521,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 345,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 49
                 },
                 "Imperatorz": {
                     "title": "Imperatorz",
@@ -481,7 +531,8 @@
                     "going": false,
                     "startTimeFromZero": 345,
                     "endTimeFromZero": 390,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 50
                 },
                 "Malice": {
                     "title": "Malice",
@@ -490,7 +541,8 @@
                     "going": false,
                     "startTimeFromZero": 390,
                     "endTimeFromZero": 450,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 51
                 },
                 "Unresolved": {
                     "title": "Unresolved",
@@ -499,7 +551,8 @@
                     "going": false,
                     "startTimeFromZero": 450,
                     "endTimeFromZero": 510,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 52
                 },
                 "Ode to Delete": {
                     "title": "Ode to Delete",
@@ -508,7 +561,8 @@
                     "going": false,
                     "startTimeFromZero": 510,
                     "endTimeFromZero": 570,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 53
                 },
                 "Killshot": {
                     "title": "Killshot",
@@ -517,7 +571,8 @@
                     "going": false,
                     "startTimeFromZero": 570,
                     "endTimeFromZero": 630,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 54
                 },
                 "Riot Shift Presents Dystopia LIVE": {
                     "title": "Riot Shift Presents Dystopia LIVE",
@@ -526,7 +581,8 @@
                     "going": false,
                     "startTimeFromZero": 630,
                     "endTimeFromZero": 660,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 55
                 },
                 "Hosted by Livid ": {
                     "title": "Hosted by Livid ",
@@ -535,7 +591,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 690,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 56
                 }
             },
             "BLACK": {
@@ -546,7 +603,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 90,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 57
                 },
                 "GridKiller": {
                     "title": "GridKiller",
@@ -555,7 +613,8 @@
                     "going": false,
                     "startTimeFromZero": 90,
                     "endTimeFromZero": 150,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 58
                 },
                 "Restrained presents Rulebreaking Hardcore": {
                     "title": "Restrained presents Rulebreaking Hardcore",
@@ -564,7 +623,8 @@
                     "going": false,
                     "startTimeFromZero": 150,
                     "endTimeFromZero": 210,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 59
                 },
                 "Never Surrender": {
                     "title": "Never Surrender",
@@ -573,7 +633,8 @@
                     "going": false,
                     "startTimeFromZero": 210,
                     "endTimeFromZero": 300,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 60
                 },
                 "Re-Style ": {
                     "title": "Re-Style ",
@@ -582,7 +643,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 61
                 },
                 "Dither": {
                     "title": "Dither",
@@ -591,7 +653,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 62
                 },
                 "Bulletproof": {
                     "title": "Bulletproof",
@@ -600,7 +663,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 63
                 },
                 "Destructive Tendencies": {
                     "title": "Destructive Tendencies",
@@ -609,7 +673,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 64
                 },
                 "Andy The Core": {
                     "title": "Andy The Core",
@@ -618,7 +683,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 600,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 65
                 },
                 "DRS": {
                     "title": "DRS",
@@ -627,7 +693,8 @@
                     "going": false,
                     "startTimeFromZero": 600,
                     "endTimeFromZero": 660,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 66
                 },
                 "The Spotlight: N-Vitral": {
                     "title": "The Spotlight: N-Vitral",
@@ -636,7 +703,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 690,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 67
                 },
                 "Hosted by Tha Watcher ": {
                     "title": "Hosted by Tha Watcher ",
@@ -645,7 +713,8 @@
                     "going": false,
                     "startTimeFromZero": 690,
                     "endTimeFromZero": 720,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 68
                 }
             },
             "UV": {
@@ -656,7 +725,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 69
                 },
                 "ANDY SVGE": {
                     "title": "ANDY SVGE",
@@ -665,7 +735,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 165,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 70
                 },
                 "Lady Faith": {
                     "title": "Lady Faith",
@@ -674,7 +745,8 @@
                     "going": false,
                     "startTimeFromZero": 165,
                     "endTimeFromZero": 225,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 71
                 },
                 "Jay Reeve LIVE: The Amazing Feeling Of Freedom": {
                     "title": "Jay Reeve LIVE: The Amazing Feeling Of Freedom",
@@ -683,7 +755,8 @@
                     "going": false,
                     "startTimeFromZero": 225,
                     "endTimeFromZero": 270,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 72
                 },
                 "Audiotricz [LIVE]": {
                     "title": "Audiotricz [LIVE]",
@@ -692,7 +765,8 @@
                     "going": false,
                     "startTimeFromZero": 270,
                     "endTimeFromZero": 315,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 73
                 },
                 "Sephyx [LIVE]": {
                     "title": "Sephyx [LIVE]",
@@ -701,7 +775,8 @@
                     "going": false,
                     "startTimeFromZero": 315,
                     "endTimeFromZero": 360,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 74
                 },
                 "Hardstyle Pianist [LIVE]": {
                     "title": "Hardstyle Pianist [LIVE]",
@@ -710,7 +785,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 390,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 75
                 },
                 "Frontliner [LIVE]": {
                     "title": "Frontliner [LIVE]",
@@ -719,7 +795,8 @@
                     "going": false,
                     "startTimeFromZero": 390,
                     "endTimeFromZero": 435,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 76
                 },
                 "Darren Styles": {
                     "title": "Darren Styles",
@@ -728,7 +805,8 @@
                     "going": false,
                     "startTimeFromZero": 435,
                     "endTimeFromZero": 480,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 77
                 },
                 "Geck-o": {
                     "title": "Geck-o",
@@ -737,7 +815,8 @@
                     "going": false,
                     "startTimeFromZero": 615,
                     "endTimeFromZero": 645,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 78
                 },
                 "Phuture Noize presents Statues": {
                     "title": "Phuture Noize presents Statues",
@@ -746,7 +825,8 @@
                     "going": false,
                     "startTimeFromZero": 510,
                     "endTimeFromZero": 570,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 79
                 },
                 "Noize Suppressor Presents Sonar ": {
                     "title": "Noize Suppressor Presents Sonar ",
@@ -755,7 +835,8 @@
                     "going": false,
                     "startTimeFromZero": 585,
                     "endTimeFromZero": 615,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 80
                 },
                 "GPF.Pres.ThePiepShow.2022.WEBRip.YIFY.X69.AC3-EVO": {
                     "title": "GPF.Pres.ThePiepShow.2022.WEBRip.YIFY.X69.AC3-EVO",
@@ -764,7 +845,8 @@
                     "going": false,
                     "startTimeFromZero": 645,
                     "endTimeFromZero": 690,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 81
                 },
                 "Hosted by DL": {
                     "title": "Hosted by DL",
@@ -773,7 +855,8 @@
                     "going": false,
                     "startTimeFromZero": 690,
                     "endTimeFromZero": 720,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 82
                 }
             },
             "MAGENTA": {
@@ -784,7 +867,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 90,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 83
                 },
                 "Tartaros": {
                     "title": "Tartaros",
@@ -793,7 +877,8 @@
                     "going": false,
                     "startTimeFromZero": 90,
                     "endTimeFromZero": 150,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 84
                 },
                 "Haze & Abyss": {
                     "title": "Haze & Abyss",
@@ -802,7 +887,8 @@
                     "going": false,
                     "startTimeFromZero": 150,
                     "endTimeFromZero": 210,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 85
                 },
                 "Jajox": {
                     "title": "Jajox",
@@ -811,7 +897,8 @@
                     "going": false,
                     "startTimeFromZero": 210,
                     "endTimeFromZero": 270,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 86
                 },
                 "Alpha Twins": {
                     "title": "Alpha Twins",
@@ -820,7 +907,8 @@
                     "going": false,
                     "startTimeFromZero": 270,
                     "endTimeFromZero": 330,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 87
                 },
                 "Jack of Sound": {
                     "title": "Jack of Sound",
@@ -829,7 +917,8 @@
                     "going": false,
                     "startTimeFromZero": 330,
                     "endTimeFromZero": 390,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 88
                 },
                 "Deetox": {
                     "title": "Deetox",
@@ -838,7 +927,8 @@
                     "going": false,
                     "startTimeFromZero": 390,
                     "endTimeFromZero": 450,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 89
                 },
                 "Donkey Rollers": {
                     "title": "Donkey Rollers",
@@ -847,7 +937,8 @@
                     "going": false,
                     "startTimeFromZero": 450,
                     "endTimeFromZero": 480,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 90
                 },
                 "Crypsis": {
                     "title": "Crypsis",
@@ -856,7 +947,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 91
                 },
                 "Main Concern": {
                     "title": "Main Concern",
@@ -865,7 +957,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 600,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 92
                 },
                 "DJ Thera": {
                     "title": "DJ Thera",
@@ -874,7 +967,8 @@
                     "going": false,
                     "startTimeFromZero": 600,
                     "endTimeFromZero": 660,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 93
                 },
                 "Hosted by Da Syndrome ": {
                     "title": "Hosted by Da Syndrome ",
@@ -883,7 +977,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 690,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 94
                 }
             },
             "INDIGO": {
@@ -894,7 +989,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 90,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 95
                 },
                 "Ressurectz": {
                     "title": "Ressurectz",
@@ -903,7 +999,8 @@
                     "going": false,
                     "startTimeFromZero": 90,
                     "endTimeFromZero": 180,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 96
                 },
                 "Enemy Contact": {
                     "title": "Enemy Contact",
@@ -912,7 +1009,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 97
                 },
                 "Scarra & Vasto present Bassline Breaker": {
                     "title": "Scarra & Vasto present Bassline Breaker",
@@ -921,7 +1019,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 98
                 },
                 "Artifact": {
                     "title": "Artifact",
@@ -930,7 +1029,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 99
                 },
                 "Element": {
                     "title": "Element",
@@ -939,7 +1039,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 100
                 },
                 "Spitfire": {
                     "title": "Spitfire",
@@ -948,7 +1049,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 101
                 },
                 "Kruelty": {
                     "title": "Kruelty",
@@ -957,7 +1059,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 102
                 },
                 "Vyral": {
                     "title": "Vyral",
@@ -966,7 +1069,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 600,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 103
                 },
                 "The Straikerz": {
                     "title": "The Straikerz",
@@ -975,7 +1079,8 @@
                     "going": false,
                     "startTimeFromZero": 600,
                     "endTimeFromZero": 660,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 104
                 },
                 "Hosted by Focus": {
                     "title": "Hosted by Focus",
@@ -984,7 +1089,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 690,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 105
                 }
             },
             "YELLOW": {
@@ -995,7 +1101,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 106
                 },
                 "Noxiouz": {
                     "title": "Noxiouz",
@@ -1004,7 +1111,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 107
                 },
                 "Hard Effectz": {
                     "title": "Hard Effectz",
@@ -1013,7 +1121,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 180,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 108
                 },
                 "Major Conspiracy": {
                     "title": "Major Conspiracy",
@@ -1022,7 +1131,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 109
                 },
                 "Trespassed": {
                     "title": "Trespassed",
@@ -1031,7 +1141,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 110
                 },
                 "Mr. Ivex": {
                     "title": "Mr. Ivex",
@@ -1040,7 +1151,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 111
                 },
                 "MBK": {
                     "title": "MBK",
@@ -1049,7 +1161,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 112
                 },
                 "Basspunkz": {
                     "title": "Basspunkz",
@@ -1058,7 +1171,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 113
                 },
                 "Juli\u00c3\u00abx": {
                     "title": "Juli\u00c3\u00abx",
@@ -1067,7 +1181,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 114
                 },
                 "Unproven": {
                     "title": "Unproven",
@@ -1076,7 +1191,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 600,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 115
                 },
                 "Dissoactive": {
                     "title": "Dissoactive",
@@ -1085,7 +1201,8 @@
                     "going": false,
                     "startTimeFromZero": 600,
                     "endTimeFromZero": 660,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 116
                 },
                 "Hosted by Mc Robs": {
                     "title": "Hosted by Mc Robs",
@@ -1094,7 +1211,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 690,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 117
                 }
             },
             "GOLD": {
@@ -1105,7 +1223,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 90,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 118
                 },
                 "The Viper": {
                     "title": "The Viper",
@@ -1114,7 +1233,8 @@
                     "going": false,
                     "startTimeFromZero": 90,
                     "endTimeFromZero": 180,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 119
                 },
                 "Amnesys": {
                     "title": "Amnesys",
@@ -1123,7 +1243,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 120
                 },
                 "Weapon X": {
                     "title": "Weapon X",
@@ -1132,7 +1253,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 330,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 121
                 },
                 "Promo": {
                     "title": "Promo",
@@ -1141,7 +1263,8 @@
                     "going": false,
                     "startTimeFromZero": 330,
                     "endTimeFromZero": 420,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 122
                 },
                 "Nosferatu": {
                     "title": "Nosferatu",
@@ -1150,7 +1273,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 510,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 123
                 },
                 "J.D.A.": {
                     "title": "J.D.A.",
@@ -1159,7 +1283,8 @@
                     "going": false,
                     "startTimeFromZero": 510,
                     "endTimeFromZero": 600,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 124
                 },
                 "Mad Dog": {
                     "title": "Mad Dog",
@@ -1168,7 +1293,8 @@
                     "going": false,
                     "startTimeFromZero": 600,
                     "endTimeFromZero": 660,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 125
                 },
                 "Hosted by Ruffian": {
                     "title": "Hosted by Ruffian",
@@ -1177,7 +1303,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 690,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 126
                 }
             },
             "PURPLE": {
@@ -1188,7 +1315,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 180,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 127
                 },
                 "PRDX": {
                     "title": "PRDX",
@@ -1197,7 +1325,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 128
                 },
                 "Damian Ray": {
                     "title": "Damian Ray",
@@ -1206,7 +1335,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 129
                 },
                 "Break of Dawn ": {
                     "title": "Break of Dawn ",
@@ -1215,7 +1345,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 130
                 },
                 "Hydra": {
                     "title": "Hydra",
@@ -1224,7 +1355,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 131
                 },
                 "Rogue Zero ": {
                     "title": "Rogue Zero ",
@@ -1233,7 +1365,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 132
                 },
                 "The Saint": {
                     "title": "The Saint",
@@ -1242,7 +1375,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 133
                 },
                 "Doris": {
                     "title": "Doris",
@@ -1251,7 +1385,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 600,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 134
                 },
                 "Mind Compressor": {
                     "title": "Mind Compressor",
@@ -1260,7 +1395,8 @@
                     "going": false,
                     "startTimeFromZero": 600,
                     "endTimeFromZero": 660,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 135
                 },
                 "Hosted by Synergy": {
                     "title": "Hosted by Synergy",
@@ -1269,7 +1405,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 690,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 136
                 }
             },
             "SILVER": {
@@ -1280,7 +1417,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 137
                 },
                 "Nick Moody": {
                     "title": "Nick Moody",
@@ -1289,7 +1427,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 138
                 },
                 "Formshift": {
                     "title": "Formshift",
@@ -1298,7 +1437,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 210,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 139
                 },
                 "Deep Dimension ": {
                     "title": "Deep Dimension ",
@@ -1307,7 +1447,8 @@
                     "going": false,
                     "startTimeFromZero": 210,
                     "endTimeFromZero": 300,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 140
                 },
                 "Remco Beekwilder": {
                     "title": "Remco Beekwilder",
@@ -1316,7 +1457,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 390,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 141
                 },
                 "Stranger": {
                     "title": "Stranger",
@@ -1325,7 +1467,8 @@
                     "going": false,
                     "startTimeFromZero": 390,
                     "endTimeFromZero": 480,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 142
                 },
                 "Rude Awakening": {
                     "title": "Rude Awakening",
@@ -1334,7 +1477,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 570,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 143
                 },
                 "Ruffneck Prime ": {
                     "title": "Ruffneck Prime ",
@@ -1343,7 +1487,8 @@
                     "going": false,
                     "startTimeFromZero": 570,
                     "endTimeFromZero": 660,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 144
                 }
             },
             "THE BIG CHILL": {
@@ -1354,7 +1499,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 120,
-                    "duration": 120
+                    "duration": 120,
+                    "id": 145
                 },
                 "Ferry Mutch ": {
                     "title": "Ferry Mutch ",
@@ -1363,7 +1509,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 180,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 146
                 },
                 "Toontje Vager ": {
                     "title": "Toontje Vager ",
@@ -1372,7 +1519,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 147
                 },
                 "Lano ": {
                     "title": "Lano ",
@@ -1381,7 +1529,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 360,
-                    "duration": 120
+                    "duration": 120,
+                    "id": 148
                 },
                 "Jasper Broeks ": {
                     "title": "Jasper Broeks ",
@@ -1390,7 +1539,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 149
                 },
                 "Gekke Sietse": {
                     "title": "Gekke Sietse",
@@ -1399,7 +1549,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 150
                 },
                 "Axel Doorman": {
                     "title": "Axel Doorman",
@@ -1408,7 +1559,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 600,
-                    "duration": 120
+                    "duration": 120,
+                    "id": 151
                 },
                 "Squeaky Clean ": {
                     "title": "Squeaky Clean ",
@@ -1417,7 +1569,8 @@
                     "going": false,
                     "startTimeFromZero": 600,
                     "endTimeFromZero": 660,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 152
                 },
                 "Nan0dot": {
                     "title": "Nan0dot",
@@ -1426,7 +1579,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 720,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 153
                 },
                 "MC Stolker": {
                     "title": "MC Stolker",
@@ -1435,7 +1589,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 750,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 154
                 }
             },
             "BLUE AFTERPARTY": {
@@ -1446,7 +1601,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 840,
-                    "duration": 120
+                    "duration": 120,
+                    "id": 155
                 }
             },
             "MAGENTA AFTERPARTY (SILENT)": {
@@ -1457,7 +1613,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 780,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 156
                 },
                 "Outbreak ": {
                     "title": "Outbreak ",
@@ -1466,7 +1623,8 @@
                     "going": false,
                     "startTimeFromZero": 780,
                     "endTimeFromZero": 840,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 157
                 }
             },
             "Heineken SILVER (SILENT)": {
@@ -1477,7 +1635,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 780,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 158
                 },
                 "Jesse Jax": {
                     "title": "Jesse Jax",
@@ -1486,7 +1645,8 @@
                     "going": false,
                     "startTimeFromZero": 780,
                     "endTimeFromZero": 825,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 159
                 },
                 "Galactixx": {
                     "title": "Galactixx",
@@ -1495,7 +1655,8 @@
                     "going": false,
                     "startTimeFromZero": 825,
                     "endTimeFromZero": 870,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 160
                 },
                 "Luner": {
                     "title": "Luner",
@@ -1504,7 +1665,8 @@
                     "going": false,
                     "startTimeFromZero": 870,
                     "endTimeFromZero": 915,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 161
                 },
                 "Crypton": {
                     "title": "Crypton",
@@ -1513,7 +1675,8 @@
                     "going": false,
                     "startTimeFromZero": 915,
                     "endTimeFromZero": 960,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 162
                 }
             },
             "The Funky Cat (SILENT)": {
@@ -1524,7 +1687,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 780,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 163
                 },
                 "D00d": {
                     "title": "D00d",
@@ -1533,7 +1697,8 @@
                     "going": false,
                     "startTimeFromZero": 780,
                     "endTimeFromZero": 825,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 164
                 },
                 "Bitface": {
                     "title": "Bitface",
@@ -1542,7 +1707,8 @@
                     "going": false,
                     "startTimeFromZero": 825,
                     "endTimeFromZero": 870,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 165
                 },
                 "STOIK": {
                     "title": "STOIK",
@@ -1551,7 +1717,8 @@
                     "going": false,
                     "startTimeFromZero": 870,
                     "endTimeFromZero": 915,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 166
                 },
                 "Koarse": {
                     "title": "Koarse",
@@ -1560,7 +1727,8 @@
                     "going": false,
                     "startTimeFromZero": 915,
                     "endTimeFromZero": 960,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 167
                 }
             }
         }
@@ -1576,7 +1744,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 168
                 },
                 "Primeshock": {
                     "title": "Primeshock",
@@ -1585,7 +1754,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 180,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 169
                 },
                 "DJ The Prophet": {
                     "title": "DJ The Prophet",
@@ -1594,7 +1764,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 170
                 },
                 "Noisecontrollers": {
                     "title": "Noisecontrollers",
@@ -1603,7 +1774,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 171
                 },
                 "Power Hour": {
                     "title": "Power Hour",
@@ -1612,7 +1784,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 172
                 },
                 "Geck-o Day Break session": {
                     "title": "Geck-o Day Break session",
@@ -1621,7 +1794,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 390,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 173
                 },
                 "Coone": {
                     "title": "Coone",
@@ -1630,7 +1804,8 @@
                     "going": false,
                     "startTimeFromZero": 390,
                     "endTimeFromZero": 450,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 174
                 },
                 "Psyko Punkz ": {
                     "title": "Psyko Punkz ",
@@ -1639,7 +1814,8 @@
                     "going": false,
                     "startTimeFromZero": 450,
                     "endTimeFromZero": 495,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 175
                 },
                 "Phuture Noize": {
                     "title": "Phuture Noize",
@@ -1648,7 +1824,8 @@
                     "going": false,
                     "startTimeFromZero": 495,
                     "endTimeFromZero": 540,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 176
                 },
                 "Rebelion": {
                     "title": "Rebelion",
@@ -1657,7 +1834,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 585,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 177
                 },
                 "Warface": {
                     "title": "Warface",
@@ -1666,7 +1844,8 @@
                     "going": false,
                     "startTimeFromZero": 585,
                     "endTimeFromZero": 645,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 178
                 },
                 "Gunz for Hire \u00e2\u20ac\u201c Death or Glory": {
                     "title": "Gunz for Hire \u00e2\u20ac\u201c Death or Glory",
@@ -1675,7 +1854,8 @@
                     "going": false,
                     "startTimeFromZero": 645,
                     "endTimeFromZero": 695,
-                    "duration": 50
+                    "duration": 50,
+                    "id": 179
                 },
                 "The Endshow": {
                     "title": "The Endshow",
@@ -1684,7 +1864,8 @@
                     "going": false,
                     "startTimeFromZero": 695,
                     "endTimeFromZero": 720,
-                    "duration": 25
+                    "duration": 25,
+                    "id": 180
                 },
                 "Hosted by Villain & DV8": {
                     "title": "Hosted by Villain & DV8",
@@ -1693,7 +1874,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 750,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 181
                 }
             },
             "BLUE": {
@@ -1704,7 +1886,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 182
                 },
                 "D-Attack": {
                     "title": "D-Attack",
@@ -1713,7 +1896,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 183
                 },
                 "Clockartz": {
                     "title": "Clockartz",
@@ -1722,7 +1906,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 180,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 184
                 },
                 "Aftershock ": {
                     "title": "Aftershock ",
@@ -1731,7 +1916,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 185
                 },
                 "Rejecta": {
                     "title": "Rejecta",
@@ -1740,7 +1926,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 186
                 },
                 "Ncrypta": {
                     "title": "Ncrypta",
@@ -1749,7 +1936,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 187
                 },
                 "Degos & Re-Done": {
                     "title": "Degos & Re-Done",
@@ -1758,7 +1946,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 188
                 },
                 "B-Front": {
                     "title": "B-Front",
@@ -1767,7 +1956,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 189
                 },
                 "Adaro & Invector": {
                     "title": "Adaro & Invector",
@@ -1776,7 +1966,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 190
                 },
                 "E-Force": {
                     "title": "E-Force",
@@ -1785,7 +1976,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 600,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 191
                 },
                 "Act of Rage": {
                     "title": "Act of Rage",
@@ -1794,7 +1986,8 @@
                     "going": false,
                     "startTimeFromZero": 600,
                     "endTimeFromZero": 660,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 192
                 },
                 "Hosted by Livid": {
                     "title": "Hosted by Livid",
@@ -1803,7 +1996,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 690,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 193
                 }
             },
             "BLACK": {
@@ -1814,7 +2008,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 194
                 },
                 "Broken Minds": {
                     "title": "Broken Minds",
@@ -1823,7 +2018,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 195
                 },
                 "I:GOR": {
                     "title": "I:GOR",
@@ -1832,7 +2028,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 210,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 196
                 },
                 "Korsakoff": {
                     "title": "Korsakoff",
@@ -1841,7 +2038,8 @@
                     "going": false,
                     "startTimeFromZero": 210,
                     "endTimeFromZero": 270,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 197
                 },
                 "Wasted Mind": {
                     "title": "Wasted Mind",
@@ -1850,7 +2048,8 @@
                     "going": false,
                     "startTimeFromZero": 270,
                     "endTimeFromZero": 360,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 198
                 },
                 "AniMe": {
                     "title": "AniMe",
@@ -1859,7 +2058,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 199
                 },
                 "D-Fence": {
                     "title": "D-Fence",
@@ -1868,7 +2068,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 200
                 },
                 "Mad Dog": {
                     "title": "Mad Dog",
@@ -1877,7 +2078,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 201
                 },
                 "Spitnoise": {
                     "title": "Spitnoise",
@@ -1886,7 +2088,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 600,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 202
                 },
                 "The Satan": {
                     "title": "The Satan",
@@ -1895,7 +2098,8 @@
                     "going": false,
                     "startTimeFromZero": 600,
                     "endTimeFromZero": 660,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 203
                 },
                 "F. N\u00c3\u00b8IzE": {
                     "title": "F. N\u00c3\u00b8IzE",
@@ -1904,7 +2108,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 720,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 204
                 },
                 "Hosted by Alee": {
                     "title": "Hosted by Alee",
@@ -1913,7 +2118,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 750,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 205
                 }
             },
             "UV": {
@@ -1924,7 +2130,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 45,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 206
                 },
                 "Refuzion": {
                     "title": "Refuzion",
@@ -1933,7 +2140,8 @@
                     "going": false,
                     "startTimeFromZero": 45,
                     "endTimeFromZero": 90,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 207
                 },
                 "Retrospect": {
                     "title": "Retrospect",
@@ -1942,7 +2150,8 @@
                     "going": false,
                     "startTimeFromZero": 90,
                     "endTimeFromZero": 135,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 208
                 },
                 "Galactixx": {
                     "title": "Galactixx",
@@ -1951,7 +2160,8 @@
                     "going": false,
                     "startTimeFromZero": 135,
                     "endTimeFromZero": 195,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 209
                 },
                 "Dr Phunk": {
                     "title": "Dr Phunk",
@@ -1960,7 +2170,8 @@
                     "going": false,
                     "startTimeFromZero": 195,
                     "endTimeFromZero": 240,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 210
                 },
                 "Wasted Penguinz": {
                     "title": "Wasted Penguinz",
@@ -1969,7 +2180,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 211
                 },
                 "The Pitcher": {
                     "title": "The Pitcher",
@@ -1978,7 +2190,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 212
                 },
                 "Adrenalize": {
                     "title": "Adrenalize",
@@ -1987,7 +2200,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 213
                 },
                 "DJ Isaac": {
                     "title": "DJ Isaac",
@@ -1996,7 +2210,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 214
                 },
                 "TNT": {
                     "title": "TNT",
@@ -2005,7 +2220,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 215
                 },
                 "2 \u00e2\u2013\u00b2 1 ": {
                     "title": "2 \u00e2\u2013\u00b2 1 ",
@@ -2014,7 +2230,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 600,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 216
                 },
                 "Bass Modulators": {
                     "title": "Bass Modulators",
@@ -2023,7 +2240,8 @@
                     "going": false,
                     "startTimeFromZero": 600,
                     "endTimeFromZero": 660,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 217
                 },
                 "Hosted by DL": {
                     "title": "Hosted by DL",
@@ -2032,7 +2250,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 690,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 218
                 }
             },
             "MAGENTA": {
@@ -2043,7 +2262,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 90,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 219
                 },
                 "Sunny D": {
                     "title": "Sunny D",
@@ -2052,7 +2272,8 @@
                     "going": false,
                     "startTimeFromZero": 90,
                     "endTimeFromZero": 180,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 220
                 },
                 "Super Marco May": {
                     "title": "Super Marco May",
@@ -2061,7 +2282,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 221
                 },
                 "A-Lusion": {
                     "title": "A-Lusion",
@@ -2070,7 +2292,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 222
                 },
                 "DJ Ruffian": {
                     "title": "DJ Ruffian",
@@ -2079,7 +2302,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 223
                 },
                 "Daniele Mondello": {
                     "title": "Daniele Mondello",
@@ -2088,7 +2312,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 224
                 },
                 "Dana & Luna": {
                     "title": "Dana & Luna",
@@ -2097,7 +2322,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 225
                 },
                 "Pavo": {
                     "title": "Pavo",
@@ -2106,7 +2332,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 226
                 },
                 "Franky Jones": {
                     "title": "Franky Jones",
@@ -2115,7 +2342,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 600,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 227
                 },
                 "Bass-D": {
                     "title": "Bass-D",
@@ -2124,7 +2352,8 @@
                     "going": false,
                     "startTimeFromZero": 600,
                     "endTimeFromZero": 660,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 228
                 },
                 "Hosted by Ruffian": {
                     "title": "Hosted by Ruffian",
@@ -2133,7 +2362,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 690,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 229
                 }
             },
             "INDIGO": {
@@ -2144,7 +2374,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 90,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 230
                 },
                 "Mutilator & Fraw ": {
                     "title": "Mutilator & Fraw ",
@@ -2153,7 +2384,8 @@
                     "going": false,
                     "startTimeFromZero": 90,
                     "endTimeFromZero": 180,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 231
                 },
                 "Crystal Mad ": {
                     "title": "Crystal Mad ",
@@ -2162,7 +2394,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 232
                 },
                 "JNXD": {
                     "title": "JNXD",
@@ -2171,7 +2404,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 233
                 },
                 "Chris One ": {
                     "title": "Chris One ",
@@ -2180,7 +2414,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 234
                 },
                 "Oxya": {
                     "title": "Oxya",
@@ -2189,7 +2424,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 235
                 },
                 "The Purge presents TRIPPIN\u00e2\u20ac\u2122": {
                     "title": "The Purge presents TRIPPIN\u00e2\u20ac\u2122",
@@ -2198,7 +2434,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 450,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 236
                 },
                 "Amentis ": {
                     "title": "Amentis ",
@@ -2207,7 +2444,8 @@
                     "going": false,
                     "startTimeFromZero": 450,
                     "endTimeFromZero": 510,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 237
                 },
                 "Sins of Insanity": {
                     "title": "Sins of Insanity",
@@ -2216,7 +2454,8 @@
                     "going": false,
                     "startTimeFromZero": 510,
                     "endTimeFromZero": 570,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 238
                 },
                 "High Voltage ": {
                     "title": "High Voltage ",
@@ -2225,7 +2464,8 @@
                     "going": false,
                     "startTimeFromZero": 570,
                     "endTimeFromZero": 630,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 239
                 },
                 "Krowdexx": {
                     "title": "Krowdexx",
@@ -2234,7 +2474,8 @@
                     "going": false,
                     "startTimeFromZero": 630,
                     "endTimeFromZero": 720,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 240
                 },
                 "Hosted by Focus": {
                     "title": "Hosted by Focus",
@@ -2243,7 +2484,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 750,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 241
                 }
             },
             "YELLOW": {
@@ -2254,7 +2496,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 242
                 },
                 "Irradiate": {
                     "title": "Irradiate",
@@ -2263,7 +2506,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 243
                 },
                 "Floxytek": {
                     "title": "Floxytek",
@@ -2272,7 +2516,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 180,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 244
                 },
                 "The Sickest Squad": {
                     "title": "The Sickest Squad",
@@ -2281,7 +2526,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 245
                 },
                 "D-Frek LIVE": {
                     "title": "D-Frek LIVE",
@@ -2290,7 +2536,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 270,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 246
                 },
                 "Vandal!sm": {
                     "title": "Vandal!sm",
@@ -2299,7 +2546,8 @@
                     "going": false,
                     "startTimeFromZero": 270,
                     "endTimeFromZero": 330,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 247
                 },
                 "Soulblast": {
                     "title": "Soulblast",
@@ -2308,7 +2556,8 @@
                     "going": false,
                     "startTimeFromZero": 330,
                     "endTimeFromZero": 390,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 248
                 },
                 "Lady Dammage ": {
                     "title": "Lady Dammage ",
@@ -2317,7 +2566,8 @@
                     "going": false,
                     "startTimeFromZero": 390,
                     "endTimeFromZero": 450,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 249
                 },
                 "Chaotic Hostility ": {
                     "title": "Chaotic Hostility ",
@@ -2326,7 +2576,8 @@
                     "going": false,
                     "startTimeFromZero": 450,
                     "endTimeFromZero": 510,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 250
                 },
                 "Angernoizer & Cryogenic": {
                     "title": "Angernoizer & Cryogenic",
@@ -2335,7 +2586,8 @@
                     "going": false,
                     "startTimeFromZero": 510,
                     "endTimeFromZero": 570,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 251
                 },
                 "The Dark Horror": {
                     "title": "The Dark Horror",
@@ -2344,7 +2596,8 @@
                     "going": false,
                     "startTimeFromZero": 570,
                     "endTimeFromZero": 630,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 252
                 },
                 "Dimitri K": {
                     "title": "Dimitri K",
@@ -2353,7 +2606,8 @@
                     "going": false,
                     "startTimeFromZero": 630,
                     "endTimeFromZero": 690,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 253
                 },
                 "Shock-N-Destroy": {
                     "title": "Shock-N-Destroy",
@@ -2362,7 +2616,8 @@
                     "going": false,
                     "startTimeFromZero": 690,
                     "endTimeFromZero": 720,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 254
                 },
                 "Hosted by Mc RG ": {
                     "title": "Hosted by Mc RG ",
@@ -2371,7 +2626,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 750,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 255
                 }
             },
             "GOLD": {
@@ -2382,7 +2638,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 256
                 },
                 "Panic ": {
                     "title": "Panic ",
@@ -2391,7 +2648,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 150,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 257
                 },
                 "The Raver": {
                     "title": "The Raver",
@@ -2400,7 +2658,8 @@
                     "going": false,
                     "startTimeFromZero": 150,
                     "endTimeFromZero": 240,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 258
                 },
                 "Lady Dana": {
                     "title": "Lady Dana",
@@ -2409,7 +2668,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 259
                 },
                 "Pila": {
                     "title": "Pila",
@@ -2418,7 +2678,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 260
                 },
                 "Rob Gee": {
                     "title": "Rob Gee",
@@ -2427,7 +2688,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 261
                 },
                 "Dano": {
                     "title": "Dano",
@@ -2436,7 +2698,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 262
                 },
                 "Buzz Fuzz": {
                     "title": "Buzz Fuzz",
@@ -2445,7 +2708,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 263
                 },
                 "Vince": {
                     "title": "Vince",
@@ -2454,7 +2718,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 600,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 264
                 },
                 "Steve-D": {
                     "title": "Steve-D",
@@ -2463,7 +2728,8 @@
                     "going": false,
                     "startTimeFromZero": 600,
                     "endTimeFromZero": 660,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 265
                 },
                 "Hosted by Da Mouth of Madness": {
                     "title": "Hosted by Da Mouth of Madness",
@@ -2472,7 +2738,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 690,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 266
                 }
             },
             "PURPLE": {
@@ -2483,7 +2750,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 267
                 },
                 "Shockwave": {
                     "title": "Shockwave",
@@ -2492,7 +2760,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 180,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 268
                 },
                 "Subraver": {
                     "title": "Subraver",
@@ -2501,7 +2770,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 269
                 },
                 "Contest spot by Harderclass": {
                     "title": "Contest spot by Harderclass",
@@ -2510,7 +2780,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 270
                 },
                 "Mortalis": {
                     "title": "Mortalis",
@@ -2519,7 +2790,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 345,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 271
                 },
                 "Shockrage": {
                     "title": "Shockrage",
@@ -2528,7 +2800,8 @@
                     "going": false,
                     "startTimeFromZero": 345,
                     "endTimeFromZero": 405,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 272
                 },
                 "Emphasis ": {
                     "title": "Emphasis ",
@@ -2537,7 +2810,8 @@
                     "going": false,
                     "startTimeFromZero": 405,
                     "endTimeFromZero": 465,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 273
                 },
                 "Luner": {
                     "title": "Luner",
@@ -2546,7 +2820,8 @@
                     "going": false,
                     "startTimeFromZero": 465,
                     "endTimeFromZero": 510,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 274
                 },
                 "K1": {
                     "title": "K1",
@@ -2555,7 +2830,8 @@
                     "going": false,
                     "startTimeFromZero": 510,
                     "endTimeFromZero": 570,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 275
                 },
                 "Broken Element": {
                     "title": "Broken Element",
@@ -2564,7 +2840,8 @@
                     "going": false,
                     "startTimeFromZero": 570,
                     "endTimeFromZero": 615,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 276
                 },
                 "Juju Rush": {
                     "title": "Juju Rush",
@@ -2573,7 +2850,8 @@
                     "going": false,
                     "startTimeFromZero": 615,
                     "endTimeFromZero": 660,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 277
                 },
                 "Hosted by LePrince": {
                     "title": "Hosted by LePrince",
@@ -2582,7 +2860,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 690,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 278
                 }
             },
             "SILVER": {
@@ -2593,7 +2872,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 279
                 },
                 "Strange Arrival & Sacerdos Vigilia": {
                     "title": "Strange Arrival & Sacerdos Vigilia",
@@ -2602,7 +2882,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 180,
-                    "duration": 120
+                    "duration": 120,
+                    "id": 280
                 },
                 "N-Vitral & Dither": {
                     "title": "N-Vitral & Dither",
@@ -2611,7 +2892,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 300,
-                    "duration": 120
+                    "duration": 120,
+                    "id": 281
                 },
                 "HellFish & Bryan Fury": {
                     "title": "HellFish & Bryan Fury",
@@ -2620,7 +2902,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 420,
-                    "duration": 120
+                    "duration": 120,
+                    "id": 282
                 },
                 "Ophidian & Thrasher": {
                     "title": "Ophidian & Thrasher",
@@ -2629,7 +2912,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 540,
-                    "duration": 120
+                    "duration": 120,
+                    "id": 283
                 },
                 "The Outside Agency & Akira": {
                     "title": "The Outside Agency & Akira",
@@ -2638,7 +2922,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 660,
-                    "duration": 120
+                    "duration": 120,
+                    "id": 284
                 }
             },
             "THE BIG CHILL": {
@@ -2649,7 +2934,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 120,
-                    "duration": 120
+                    "duration": 120,
+                    "id": 285
                 },
                 "Ilja Reiman & William Jordens": {
                     "title": "Ilja Reiman & William Jordens",
@@ -2658,7 +2944,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 210,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 286
                 },
                 "El Ni\u00c3\u00b1o": {
                     "title": "El Ni\u00c3\u00b1o",
@@ -2667,7 +2954,8 @@
                     "going": false,
                     "startTimeFromZero": 210,
                     "endTimeFromZero": 285,
-                    "duration": 75
+                    "duration": 75,
+                    "id": 287
                 },
                 "Ennik & Domenico Fania": {
                     "title": "Ennik & Domenico Fania",
@@ -2676,7 +2964,8 @@
                     "going": false,
                     "startTimeFromZero": 285,
                     "endTimeFromZero": 375,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 288
                 },
                 "Wes S": {
                     "title": "Wes S",
@@ -2685,7 +2974,8 @@
                     "going": false,
                     "startTimeFromZero": 375,
                     "endTimeFromZero": 480,
-                    "duration": 105
+                    "duration": 105,
+                    "id": 289
                 },
                 "The HouseFreakerz ": {
                     "title": "The HouseFreakerz ",
@@ -2694,7 +2984,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 570,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 290
                 },
                 "Ricardo Carota ": {
                     "title": "Ricardo Carota ",
@@ -2703,7 +2994,8 @@
                     "going": false,
                     "startTimeFromZero": 570,
                     "endTimeFromZero": 660,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 291
                 },
                 "MorQuador": {
                     "title": "MorQuador",
@@ -2712,7 +3004,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 720,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 292
                 },
                 "Hosted by MC Lowie & Lowie ": {
                     "title": "Hosted by MC Lowie & Lowie ",
@@ -2721,7 +3014,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 750,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 293
                 }
             },
             "BLUE AFTERPARTY": {
@@ -2732,7 +3026,8 @@
                     "going": false,
                     "startTimeFromZero": 750,
                     "endTimeFromZero": 900,
-                    "duration": 150
+                    "duration": 150,
+                    "id": 294
                 }
             },
             "MAGENTA AFTERPARTY (SILENT)": {
@@ -2743,7 +3038,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 780,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 295
                 },
                 "Levenkhan": {
                     "title": "Levenkhan",
@@ -2752,7 +3048,8 @@
                     "going": false,
                     "startTimeFromZero": 780,
                     "endTimeFromZero": 840,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 296
                 }
             },
             "Heineken SILVER (SILENT)": {
@@ -2763,7 +3060,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 780,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 297
                 },
                 "Hans Glock": {
                     "title": "Hans Glock",
@@ -2772,7 +3070,8 @@
                     "going": false,
                     "startTimeFromZero": 780,
                     "endTimeFromZero": 825,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 298
                 },
                 "Stormerz": {
                     "title": "Stormerz",
@@ -2781,7 +3080,8 @@
                     "going": false,
                     "startTimeFromZero": 825,
                     "endTimeFromZero": 870,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 299
                 },
                 "Scarra & Vasto": {
                     "title": "Scarra & Vasto",
@@ -2790,7 +3090,8 @@
                     "going": false,
                     "startTimeFromZero": 870,
                     "endTimeFromZero": 915,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 300
                 },
                 "Nightshift": {
                     "title": "Nightshift",
@@ -2799,7 +3100,8 @@
                     "going": false,
                     "startTimeFromZero": 915,
                     "endTimeFromZero": 960,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 301
                 }
             },
             "The Funky Cat (SILENT)": {
@@ -2810,7 +3112,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 750,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 302
                 },
                 "Geck-o & STOIK": {
                     "title": "Geck-o & STOIK",
@@ -2819,7 +3122,8 @@
                     "going": false,
                     "startTimeFromZero": 750,
                     "endTimeFromZero": 780,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 303
                 },
                 "Geck-o & DJ Hidden": {
                     "title": "Geck-o & DJ Hidden",
@@ -2828,7 +3132,8 @@
                     "going": false,
                     "startTimeFromZero": 780,
                     "endTimeFromZero": 810,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 304
                 },
                 "D00d & DJ Hidden": {
                     "title": "D00d & DJ Hidden",
@@ -2837,7 +3142,8 @@
                     "going": false,
                     "startTimeFromZero": 810,
                     "endTimeFromZero": 840,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 305
                 },
                 "D00d & Koarse": {
                     "title": "D00d & Koarse",
@@ -2846,7 +3152,8 @@
                     "going": false,
                     "startTimeFromZero": 840,
                     "endTimeFromZero": 870,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 306
                 },
                 "Bitface & Koarse": {
                     "title": "Bitface & Koarse",
@@ -2855,7 +3162,8 @@
                     "going": false,
                     "startTimeFromZero": 870,
                     "endTimeFromZero": 900,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 307
                 },
                 "Bitface & Geck-o": {
                     "title": "Bitface & Geck-o",
@@ -2864,7 +3172,8 @@
                     "going": false,
                     "startTimeFromZero": 900,
                     "endTimeFromZero": 930,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 308
                 },
                 "D00d & Geck-o": {
                     "title": "D00d & Geck-o",
@@ -2873,7 +3182,8 @@
                     "going": false,
                     "startTimeFromZero": 930,
                     "endTimeFromZero": 960,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 309
                 }
             }
         }
@@ -2889,7 +3199,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 680,
-                    "duration": 140
+                    "duration": 140,
+                    "id": 310
                 },
                 "Ghost Stories": {
                     "title": "Ghost Stories",
@@ -2898,7 +3209,8 @@
                     "going": false,
                     "startTimeFromZero": 680,
                     "endTimeFromZero": 710,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 311
                 },
                 "The Closing Ritual": {
                     "title": "The Closing Ritual",
@@ -2907,7 +3219,8 @@
                     "going": false,
                     "startTimeFromZero": 710,
                     "endTimeFromZero": 720,
-                    "duration": 10
+                    "duration": 10,
+                    "id": 312
                 },
                 "Hosted by Villain ": {
                     "title": "Hosted by Villain ",
@@ -2916,7 +3229,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 750,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 313
                 }
             },
             "BLUE": {
@@ -2927,7 +3241,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 150,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 314
                 },
                 "Apexx": {
                     "title": "Apexx",
@@ -2936,7 +3251,8 @@
                     "going": false,
                     "startTimeFromZero": 150,
                     "endTimeFromZero": 240,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 315
                 },
                 "Digital Punk": {
                     "title": "Digital Punk",
@@ -2945,7 +3261,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 316
                 },
                 "Endymion": {
                     "title": "Endymion",
@@ -2954,7 +3271,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 317
                 },
                 "Deetox": {
                     "title": "Deetox",
@@ -2963,7 +3281,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 318
                 },
                 "Crypsis & Regain": {
                     "title": "Crypsis & Regain",
@@ -2972,7 +3291,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 319
                 },
                 "Radical Redemption": {
                     "title": "Radical Redemption",
@@ -2981,7 +3301,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 320
                 },
                 "Rooler": {
                     "title": "Rooler",
@@ -2990,7 +3311,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 600,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 321
                 },
                 "Jason Payne": {
                     "title": "Jason Payne",
@@ -2999,7 +3321,8 @@
                     "going": false,
                     "startTimeFromZero": 600,
                     "endTimeFromZero": 660,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 322
                 },
                 "Main Concern presents \"A Lesson in Weird\"": {
                     "title": "Main Concern presents \"A Lesson in Weird\"",
@@ -3008,7 +3331,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 720,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 323
                 },
                 "Hosted by DL": {
                     "title": "Hosted by DL",
@@ -3017,7 +3341,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 750,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 324
                 }
             },
             "BLACK": {
@@ -3028,7 +3353,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 325
                 },
                 "Audiofreq": {
                     "title": "Audiofreq",
@@ -3037,7 +3363,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 150,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 326
                 },
                 "Tha Playah": {
                     "title": "Tha Playah",
@@ -3046,7 +3373,8 @@
                     "going": false,
                     "startTimeFromZero": 150,
                     "endTimeFromZero": 210,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 327
                 },
                 "Paul Elstak": {
                     "title": "Paul Elstak",
@@ -3055,7 +3383,8 @@
                     "going": false,
                     "startTimeFromZero": 210,
                     "endTimeFromZero": 270,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 328
                 },
                 "Evil Activities": {
                     "title": "Evil Activities",
@@ -3064,7 +3393,8 @@
                     "going": false,
                     "startTimeFromZero": 270,
                     "endTimeFromZero": 330,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 329
                 },
                 "Angerfist & Deadly Guns": {
                     "title": "Angerfist & Deadly Guns",
@@ -3073,7 +3403,8 @@
                     "going": false,
                     "startTimeFromZero": 330,
                     "endTimeFromZero": 390,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 330
                 },
                 "Frenchcore Familia ": {
                     "title": "Frenchcore Familia ",
@@ -3082,7 +3413,8 @@
                     "going": false,
                     "startTimeFromZero": 390,
                     "endTimeFromZero": 450,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 331
                 },
                 "Partyraiser": {
                     "title": "Partyraiser",
@@ -3091,7 +3423,8 @@
                     "going": false,
                     "startTimeFromZero": 450,
                     "endTimeFromZero": 540,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 332
                 },
                 "Hosted by Alee": {
                     "title": "Hosted by Alee",
@@ -3100,7 +3433,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 570,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 333
                 }
             },
             "UV": {
@@ -3111,7 +3445,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 334
                 },
                 "Altijd Larstig & Rob Gasd'rop pres. Defqon le Blanc": {
                     "title": "Altijd Larstig & Rob Gasd'rop pres. Defqon le Blanc",
@@ -3120,7 +3455,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 105,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 335
                 },
                 "MANDY": {
                     "title": "MANDY",
@@ -3129,7 +3465,8 @@
                     "going": false,
                     "startTimeFromZero": 105,
                     "endTimeFromZero": 150,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 336
                 },
                 "Dr. Rude ft. Hans Glock & Ransom": {
                     "title": "Dr. Rude ft. Hans Glock & Ransom",
@@ -3138,7 +3475,8 @@
                     "going": false,
                     "startTimeFromZero": 150,
                     "endTimeFromZero": 210,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 337
                 },
                 "Problem Child ": {
                     "title": "Problem Child ",
@@ -3147,7 +3485,8 @@
                     "going": false,
                     "startTimeFromZero": 210,
                     "endTimeFromZero": 240,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 338
                 },
                 "Mark with a K & Mc Chucky ": {
                     "title": "Mark with a K & Mc Chucky ",
@@ -3156,7 +3495,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 339
                 },
                 "Bass Chaserz": {
                     "title": "Bass Chaserz",
@@ -3165,7 +3505,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 340
                 },
                 "FeestDJRuud ": {
                     "title": "FeestDJRuud ",
@@ -3174,7 +3515,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 341
                 },
                 "Outsiders": {
                     "title": "Outsiders",
@@ -3183,7 +3525,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 342
                 },
                 "De Nachtbrakers": {
                     "title": "De Nachtbrakers",
@@ -3192,7 +3535,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 343
                 },
                 "Crude Intentions ": {
                     "title": "Crude Intentions ",
@@ -3201,7 +3545,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 600,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 344
                 },
                 "Zany": {
                     "title": "Zany",
@@ -3210,7 +3555,8 @@
                     "going": false,
                     "startTimeFromZero": 600,
                     "endTimeFromZero": 660,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 345
                 },
                 "The Darkraver": {
                     "title": "The Darkraver",
@@ -3219,7 +3565,8 @@
                     "going": false,
                     "startTimeFromZero": 660,
                     "endTimeFromZero": 720,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 346
                 },
                 "Hosted by LePrince & Boogshe": {
                     "title": "Hosted by LePrince & Boogshe",
@@ -3228,7 +3575,8 @@
                     "going": false,
                     "startTimeFromZero": 720,
                     "endTimeFromZero": 750,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 347
                 }
             },
             "MAGENTA": {
@@ -3239,7 +3587,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 348
                 },
                 "Jones": {
                     "title": "Jones",
@@ -3248,7 +3597,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 349
                 },
                 "Deepack": {
                     "title": "Deepack",
@@ -3257,7 +3607,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 180,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 350
                 },
                 "Max Enforcer": {
                     "title": "Max Enforcer",
@@ -3266,7 +3617,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 351
                 },
                 "DJ Isaac": {
                     "title": "DJ Isaac",
@@ -3275,7 +3627,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 352
                 },
                 "Frontliner": {
                     "title": "Frontliner",
@@ -3284,7 +3637,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 353
                 },
                 "Bass Modulators": {
                     "title": "Bass Modulators",
@@ -3293,7 +3647,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 354
                 },
                 "Ran-D & Adaro ": {
                     "title": "Ran-D & Adaro ",
@@ -3302,7 +3657,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 355
                 },
                 "B-Front": {
                     "title": "B-Front",
@@ -3311,7 +3667,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 356
                 },
                 "Hosted by DV8": {
                     "title": "Hosted by DV8",
@@ -3320,7 +3677,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 570,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 357
                 }
             },
             "INDIGO": {
@@ -3331,7 +3689,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 358
                 },
                 "Deluzion": {
                     "title": "Deluzion",
@@ -3340,7 +3699,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 359
                 },
                 "Aversion": {
                     "title": "Aversion",
@@ -3349,7 +3709,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 180,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 360
                 },
                 "Radianze": {
                     "title": "Radianze",
@@ -3358,7 +3719,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 361
                 },
                 "RVAGE": {
                     "title": "RVAGE",
@@ -3367,7 +3729,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 362
                 },
                 "Neroz": {
                     "title": "Neroz",
@@ -3376,7 +3739,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 363
                 },
                 "Luminite": {
                     "title": "Luminite",
@@ -3385,7 +3749,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 450,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 364
                 },
                 "Genox": {
                     "title": "Genox",
@@ -3394,7 +3759,8 @@
                     "going": false,
                     "startTimeFromZero": 450,
                     "endTimeFromZero": 540,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 365
                 },
                 "Hosted by Livid": {
                     "title": "Hosted by Livid",
@@ -3403,7 +3769,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 570,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 366
                 }
             },
             "YELLOW": {
@@ -3414,7 +3781,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 367
                 },
                 "Le Bask": {
                     "title": "Le Bask",
@@ -3423,7 +3791,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 368
                 },
                 "Crypton": {
                     "title": "Crypton",
@@ -3432,7 +3801,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 180,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 369
                 },
                 "Billx ": {
                     "title": "Billx ",
@@ -3441,7 +3811,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 370
                 },
                 "Deathroar": {
                     "title": "Deathroar",
@@ -3450,7 +3821,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 371
                 },
                 "Radium": {
                     "title": "Radium",
@@ -3459,7 +3831,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 372
                 },
                 "Imperial presents #ForeverGrindin'": {
                     "title": "Imperial presents #ForeverGrindin'",
@@ -3468,7 +3841,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 373
                 },
                 "Sjammienators": {
                     "title": "Sjammienators",
@@ -3477,7 +3851,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 374
                 },
                 "Noisekick": {
                     "title": "Noisekick",
@@ -3486,7 +3861,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 375
                 },
                 "Hosted by Mc RG": {
                     "title": "Hosted by Mc RG",
@@ -3495,7 +3871,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 570,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 376
                 }
             },
             "GOLD": {
@@ -3506,7 +3883,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 377
                 },
                 "Danger Hardcore Team ": {
                     "title": "Danger Hardcore Team ",
@@ -3515,7 +3893,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 378
                 },
                 "Tjerhakkers": {
                     "title": "Tjerhakkers",
@@ -3524,7 +3903,8 @@
                     "going": false,
                     "startTimeFromZero": 270,
                     "endTimeFromZero": 300,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 379
                 },
                 "Gizmo": {
                     "title": "Gizmo",
@@ -3533,7 +3913,8 @@
                     "going": false,
                     "startTimeFromZero": 150,
                     "endTimeFromZero": 210,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 380
                 },
                 "Marshall Masters & The Ultimate MC": {
                     "title": "Marshall Masters & The Ultimate MC",
@@ -3542,7 +3923,8 @@
                     "going": false,
                     "startTimeFromZero": 210,
                     "endTimeFromZero": 270,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 381
                 },
                 "Critical Mass": {
                     "title": "Critical Mass",
@@ -3551,7 +3933,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 382
                 },
                 "DHT": {
                     "title": "DHT",
@@ -3560,7 +3943,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 390,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 383
                 },
                 "Party Animals": {
                     "title": "Party Animals",
@@ -3569,7 +3953,8 @@
                     "going": false,
                     "startTimeFromZero": 390,
                     "endTimeFromZero": 420,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 384
                 },
                 "Dune": {
                     "title": "Dune",
@@ -3578,7 +3963,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 385
                 },
                 "Predator ": {
                     "title": "Predator ",
@@ -3587,7 +3973,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 386
                 },
                 "Hosted by Da Mouth of Madness": {
                     "title": "Hosted by Da Mouth of Madness",
@@ -3596,7 +3983,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 570,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 387
                 }
             },
             "PURPLE": {
@@ -3607,7 +3995,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 388
                 },
                 "Art Frequency": {
                     "title": "Art Frequency",
@@ -3616,7 +4005,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 165,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 389
                 },
                 "Aranxa ": {
                     "title": "Aranxa ",
@@ -3625,7 +4015,8 @@
                     "going": false,
                     "startTimeFromZero": 165,
                     "endTimeFromZero": 210,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 390
                 },
                 "Vexxed": {
                     "title": "Vexxed",
@@ -3634,7 +4025,8 @@
                     "going": false,
                     "startTimeFromZero": 210,
                     "endTimeFromZero": 255,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 391
                 },
                 "TWSTD & Mc Sarge ": {
                     "title": "TWSTD & Mc Sarge ",
@@ -3643,7 +4035,8 @@
                     "going": false,
                     "startTimeFromZero": 255,
                     "endTimeFromZero": 300,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 392
                 },
                 "Anderex": {
                     "title": "Anderex",
@@ -3652,7 +4045,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 393
                 },
                 "Fraqment meets Frequalizer ": {
                     "title": "Fraqment meets Frequalizer ",
@@ -3661,7 +4055,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 394
                 },
                 "Arya ": {
                     "title": "Arya ",
@@ -3670,7 +4065,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 395
                 },
                 "Demencia": {
                     "title": "Demencia",
@@ -3679,7 +4075,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 396
                 },
                 "Hosted by Synergy": {
                     "title": "Hosted by Synergy",
@@ -3688,7 +4085,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 570,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 397
                 }
             },
             "SILVER": {
@@ -3699,7 +4097,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 150,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 398
                 },
                 "Fracture 4": {
                     "title": "Fracture 4",
@@ -3708,7 +4107,8 @@
                     "going": false,
                     "startTimeFromZero": 150,
                     "endTimeFromZero": 240,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 399
                 },
                 "Celsius LIVE": {
                     "title": "Celsius LIVE",
@@ -3717,7 +4117,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 285,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 400
                 },
                 "Adamant Scream & Tymon ": {
                     "title": "Adamant Scream & Tymon ",
@@ -3726,7 +4127,8 @@
                     "going": false,
                     "startTimeFromZero": 285,
                     "endTimeFromZero": 375,
-                    "duration": 90
+                    "duration": 90,
+                    "id": 401
                 },
                 "Ruby My Dear LIVE": {
                     "title": "Ruby My Dear LIVE",
@@ -3735,7 +4137,8 @@
                     "going": false,
                     "startTimeFromZero": 375,
                     "endTimeFromZero": 420,
-                    "duration": 45
+                    "duration": 45,
+                    "id": 402
                 },
                 "Somniac One ": {
                     "title": "Somniac One ",
@@ -3744,7 +4147,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 403
                 },
                 "Dolphin": {
                     "title": "Dolphin",
@@ -3753,7 +4157,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 404
                 }
             },
             "THE BIG CHILL": {
@@ -3764,7 +4169,8 @@
                     "going": false,
                     "startTimeFromZero": 0,
                     "endTimeFromZero": 60,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 405
                 },
                 "Vaagrid": {
                     "title": "Vaagrid",
@@ -3773,7 +4179,8 @@
                     "going": false,
                     "startTimeFromZero": 60,
                     "endTimeFromZero": 120,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 406
                 },
                 "Mister Smile": {
                     "title": "Mister Smile",
@@ -3782,7 +4189,8 @@
                     "going": false,
                     "startTimeFromZero": 120,
                     "endTimeFromZero": 180,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 407
                 },
                 "Henjo Techno Show ": {
                     "title": "Henjo Techno Show ",
@@ -3791,7 +4199,8 @@
                     "going": false,
                     "startTimeFromZero": 180,
                     "endTimeFromZero": 240,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 408
                 },
                 "St. Benhard": {
                     "title": "St. Benhard",
@@ -3800,7 +4209,8 @@
                     "going": false,
                     "startTimeFromZero": 240,
                     "endTimeFromZero": 300,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 409
                 },
                 "Afes ": {
                     "title": "Afes ",
@@ -3809,7 +4219,8 @@
                     "going": false,
                     "startTimeFromZero": 300,
                     "endTimeFromZero": 360,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 410
                 },
                 "Michiel Tettero": {
                     "title": "Michiel Tettero",
@@ -3818,7 +4229,8 @@
                     "going": false,
                     "startTimeFromZero": 360,
                     "endTimeFromZero": 420,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 411
                 },
                 "Revilo & Devocion ": {
                     "title": "Revilo & Devocion ",
@@ -3827,7 +4239,8 @@
                     "going": false,
                     "startTimeFromZero": 420,
                     "endTimeFromZero": 480,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 412
                 },
                 "MJAY": {
                     "title": "MJAY",
@@ -3836,7 +4249,8 @@
                     "going": false,
                     "startTimeFromZero": 480,
                     "endTimeFromZero": 540,
-                    "duration": 60
+                    "duration": 60,
+                    "id": 413
                 },
                 "Hosted by MC Lowie & Lowie ": {
                     "title": "Hosted by MC Lowie & Lowie ",
@@ -3845,7 +4259,8 @@
                     "going": false,
                     "startTimeFromZero": 540,
                     "endTimeFromZero": 570,
-                    "duration": 30
+                    "duration": 30,
+                    "id": 414
                 }
             }
         }

@@ -2,43 +2,28 @@
   {
     "username": "Yoan",
     "color": "blue",
-    "picks": {
-      "thursday": [
-        "Peacock in Concert"
-      ]
-    }
+    "picks": [
+      4,
+      7
+    ]
   },
   {
     "username": "Romain",
     "color": "red",
-    "picks": {
-      "thursday": [
-        "D-Block & S-te-Fan ",
-        "Wildstylez",
-        "Da Tweekaz [LIVE]",
-        "Peacock in Concert"
-      ]
-    }
+    "picks": [
+      4,
+      5
+    ]
   },
   {
     "username": "Bonnot",
     "color": "yellow",
-    "picks": {
-      "thursday": [
-        "Da Tweekaz [LIVE]",
-        "Peacock in Concert"
-      ]
-    }
+    "picks": [
+
+    ]
   },
   {
     "username": "Maxime",
-    "color": "purple",
-    "picks": {
-      "thursday": [
-        "Wildstylez",
-        "Da Tweekaz [LIVE]",
-        "Peacock in Concert"
-      ]
-    }
+    "color": "purple"
   }
 ]

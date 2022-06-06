@@ -1,14 +1,14 @@
 body {
     background-image: url("../assets/defqon-bg-black.jpg");
     color: #8a8a90;
-    font-family: trim_Regular,sans-serif;
+    font-family: trim_Regular, sans-serif;
 }
 
 #users {
     height: 5vh;
 }
 
-#table_anchor{
+#table_anchor {
     border: 1px solid black;
     margin: 15px;
     background: #1F1E1E;
@@ -22,7 +22,7 @@ body {
     width: 100%;
 }
 
-.day_tab{
+.day_tab {
     display: inline-block;
     width: 25%;
     margin: 0;
@@ -34,31 +34,61 @@ body {
     cursor: pointer;
 }
 
-.day_tab:hover{
+.day_tab:hover {
     color: white;
 }
 
-.day_selected{
-    background: linear-gradient(270deg,#e73e11,#f59e00);
+.day_selected {
+    background: linear-gradient(270deg, #e73e11, #f59e00);
     color: white;
 }
 
-.day_panel{
+#day_panel {
     width: 100%;
     height: 100%;
+    display: flex;
+    flex-direction: row;
 }
 
-.stage_panel{
-    border: 1px solid black;
-    margin: 2px;
+.stage_header {
     display: inline-block;
-    vertical-align: top;
     width: 200px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    color: white;
 }
 
-.slot_panel{
-    border: 1px solid black;
-    position: relative;
-    overflow: hidden;
+.stage_panel {
+    padding: 15px;
+}
+
+.slot_panel {
     text-align: center;
+    background: #8a8a90;
+    color: white;
+    text-transform: uppercase;
+    border: 1px solid #242021;
+    vertical-align: middle;
+    width: 188px;
+    padding: 5px;
+}
+
+.empty_slot_panel {
+
+}
+
+.slot_panel_content {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.slot_panel_content span {
+    width: 100%;
+    height: 100%;
+    white-space: pre-wrap;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
 }

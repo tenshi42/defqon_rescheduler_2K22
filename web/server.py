@@ -1,4 +1,5 @@
 from flask import Flask, render_template, current_app, g, jsonify
+from pymongo import ssl_support
 from werkzeug.local import LocalProxy
 from flask_pymongo import PyMongo
 from config import Config
@@ -13,7 +14,7 @@ def get_db():
     db = getattr(g, "_database", None)
 
     if db is None:
-        db = g._database = PyMongo(current_app).db
+        db = g._database = PyMongo(current_app, ssl_cert_reqs=ssl_support.CERT_NONE).db
 
     return db
 

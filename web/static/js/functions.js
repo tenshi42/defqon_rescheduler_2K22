@@ -50,6 +50,7 @@ function buildUserViewButtons(users) {
     for (let i = 0; i < users.length; i++) {
         let button = $(`<div class="user_view_button" id="user_view_button_${users[i].username}"></div>`)
         button.append($(`<span>${users[i].username}</span>`))
+        button.css("background-color", users[i].color)
 
         let removeButton = $("<span class='remove_user'>X</span>")
         let username = users[i].username
@@ -303,6 +304,14 @@ function onClickSlot(event){
                 refreshSlotHeaderStates()
             }
         })
+}
+
+function showHowtoPanel(){
+    $("#howto").css("display", "block")
+}
+
+function hideHowtoPanel(){
+    $("#howto").css("display", "none")
 }
 
 function loadUsers() {

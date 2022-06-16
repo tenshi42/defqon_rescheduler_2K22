@@ -8,6 +8,10 @@
     <link type="text/css" rel="stylesheet" href="/static/css/style.css"/>
 </head>
 <body>
+    <div id="howto_show">
+        <h2 onclick="showHowtoPanel()">How To</h2>
+    </div>
+
     <div id="views">
         <button id="view_time_table">Time Table</button>
         <button id="view_planning">Planning</button>
@@ -19,6 +23,21 @@
         <div id='table_body'>
             <div id='table_body_header'></div>
             <div id='day_panel'></div>
+        </div>
+    </div>
+    <div id="howto">
+        <div id="howto_content">
+            <h2>How To</h2>
+            <p>
+                Input at least 2 character in the "Add user" text input.<br/>
+                Click on the result to add the user to the visible user's timelines.<br/>
+                Click on a user button to edit selected user timeline.<br/>
+                Click on a timeline tile to check/uncheck going state.<br/>
+                Going state are shown with color bars on top of timeline tabs.
+            </p>
+        </div>
+        <div id="howto_close" onclick="hideHowtoPanel()">
+            X
         </div>
     </div>
 </body>

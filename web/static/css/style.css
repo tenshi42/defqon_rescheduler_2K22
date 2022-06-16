@@ -104,7 +104,7 @@ body {
 }
 
 .user_view_button{
-    border: 2px solid black;
+    border: 3px solid black;
     display: inline-block;
     padding: 5px;
     background-color: #1F1E1E;
@@ -113,8 +113,7 @@ body {
 }
 
 .user_view_button.selected{
-    background: linear-gradient(270deg, #e73e11, #f59e00);
-    color: white;
+    border: 3px dashed grey;
 }
 
 .user_view_button:hover{
@@ -152,4 +151,52 @@ body {
 
 #add_user_result_panel{
     position: absolute;
+}
+
+#howto {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    background-color: #444446;
+    width: 75vw;
+    height: 75vh;
+    border-radius: 10px;
+    border: 1px solid black;
+    display: none;
+    max-width: 700px;
+}
+
+#howto_content{
+    margin: 40px;
+}
+
+#howto h2{
+    border-bottom: 1px solid black;
+}
+
+#howto_close{
+    border-radius: 15px;
+    box-shadow: 0 0 5px 3px black;
+    position: absolute;
+    padding: 4px 8px;
+    right: 10px;
+    top: 10px;
+    background-color: #1F1E1E;
+    cursor: pointer;
+}
+
+#howto_close:hover{
+    background-color: #444446;
+}
+
+#howto_show{
+    position: absolute;
+    top: -15px;
+    right: 15px;
+    cursor: pointer;
+}
+
+#howto_show:hover{
+    color: white;
 }

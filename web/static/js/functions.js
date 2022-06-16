@@ -137,6 +137,8 @@ function removeUserData(username){
 function addUserData(user){
     let userCookie = getCookie("included_users")
     userCookie = userCookie.split(',')
+    console.log(userCookie)
+    if(userCookie[0] === "") userCookie.pop()
     userCookie.push(user)
     userCookie = userCookie.join()
     setCookie("included_users", userCookie)

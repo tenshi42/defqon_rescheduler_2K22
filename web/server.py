@@ -1,3 +1,4 @@
+import pymongo
 from flask import Flask, render_template, current_app, g, jsonify
 from werkzeug.local import LocalProxy
 from flask_pymongo import PyMongo
@@ -13,7 +14,8 @@ def get_db():
     db = getattr(g, "_database", None)
 
     if db is None:
-        db = g._database = PyMongo(current_app).db
+        connection = pymongo.MongoClient(host=Config.MONGO_URI)
+        db = g._database = connection['Defqon_2K22']
 
     return db
 
@@ -32,6 +34,11 @@ def index():
 @app.route("/users")
 def users():
     return jsonify(list(db.users.find({}, {'_id': 0})))
+
+
+@app.route("/users/")
+def users_empty():
+    return jsonify(list())
 
 
 @app.route("/users/<included_users>")

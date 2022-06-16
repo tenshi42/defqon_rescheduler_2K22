@@ -3,6 +3,9 @@ from flask import Flask, render_template, current_app, g, jsonify
 from werkzeug.local import LocalProxy
 from flask_pymongo import PyMongo
 from config import Config
+import logging
+
+logging.basicConfig(filename='error.log', level=logging.INFO)
 
 app = Flask(__name__)
 

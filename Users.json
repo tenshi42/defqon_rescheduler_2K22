@@ -1,32 +1,37 @@
-[
-  {
-    "username": "Yoan",
-    "color": "blue",
-    "picks": [
-      4,
-      7
-    ]
+[{
+  "_id": {
+    "$oid": "629e853ce6dfbe7204920ac6"
   },
-  {
-    "username": "Romain",
-    "color": "red",
-    "picks": [
-      4,
-      5
-    ]
+  "username": "Yoan",
+  "color": "blue",
+  "picks": [
+    4,
+    7
+  ]
+},{
+  "_id": {
+    "$oid": "629e853ce6dfbe7204920ac7"
   },
-  {
-    "username": "Bonnot",
-    "color": "yellow",
-    "picks": [
-
-    ]
+  "username": "Romain",
+  "color": "red",
+  "picks": [
+    4,
+    5
+  ]
+},{
+  "_id": {
+    "$oid": "629e853ce6dfbe7204920ac8"
   },
-  {
-    "username": "Maxime",
-    "color": "purple",
-    "picks": [
-
-    ]
-  }
-]
+  "username": "Bonnot",
+  "color": "yellow",
+  "picks": [
+    9
+  ]
+},{
+  "_id": {
+    "$oid": "629e853ce6dfbe7204920ac9"
+  },
+  "username": "Maxime",
+  "color": "purple",
+  "picks": []
+}]
